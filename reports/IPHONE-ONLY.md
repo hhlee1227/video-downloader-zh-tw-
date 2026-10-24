@@ -1,6 +1,6 @@
 # 只有 iPhone 的處理方式
 
-目前狀態：本機候選檔未簽署；Windows 無官方簽署工具。使用者已提供新建公開專案 https://github.com/hhlee1227/video-downloader-zh-tw- ，連接工具已確認可寫入。上傳及雲端簽署的最新結果以該專案功能分支與 Actions 頁面為準，不以本機檔案名稱推斷簽署成功。
+目前狀態：成果已上傳 https://github.com/hhlee1227/video-downloader-zh-tw- 的功能分支。候選檔仍未簽署；雲端 Mac 已嘗試 Apple 官方工具，但因未登入 iCloud 而失敗。[實際日誌與後續限制](CLOUD-SIGNING.md)。
 
 ## GitHub 專案已建立
 
@@ -12,11 +12,11 @@
 
 已準備 `.github/workflows/official-sign.yml`，採 GitHub 的 macOS runner，執行 Apple 原生 `shortcuts sign --mode anyone`，成功後才解碼、驗簽並與候選內容逐項比較；全部通過才上傳 signed artifact。沒有第三方簽署服務、Apple 帳號密碼欄位或繞過簽章步驟。
 
-此流程尚未執行，也無證據保證無 Apple 帳號登入的 GitHub runner 能成功簽署。若需要 Apple 個人帳號或雲端環境不支援，會失敗並保留 Actions 日誌，不會發布「可直接匯入」檔案。新格式 AA 無法由目前解碼器處理時也會停止，需診斷後再重試。
+此流程已執行，官方工具明確回覆需要登入 iCloud，因而失敗。沒有發布「可直接匯入」檔案，也沒有透過新增帳號密碼到 CI 的方式重試。新格式 AA 無法由目前解碼器處理時也會停止，需診斷後再重試。
 
 此 workflow 在指定功能分支的工作流程檔案更新時自動執行，不需要先合併 main。另保留 workflow_dispatch；這個手動介面須先將 workflow 納入預設分支才會顯示。使用 GitHub 公開專案標準 macOS runner，沒有設定付費大型 runner 或購買額度。
 
-成功後，在 iPhone Safari 登入 GitHub → 專案 Actions → 該次成功執行 → Artifacts，下載壓縮檔，在「檔案」解壓縮後開啟 `.signed.shortcut`。這只是預定操作路徑，尚未在 iPhone 驗證，實際介面與匯入結果待測。匯入後仍須驗證下載服務，目前 API 曾回傳原版更新導引。
+目前沒有可下載的 signed artifact。只有未來簽署、解碼驗簽與內容比對均成功後，才能在 iPhone Safari 從 GitHub Actions 下載 signed artifact，在「檔案」解壓縮後嘗試匯入；此手機下載／匯入路徑尚未實測。匯入後仍須驗證下載服務，目前 API 曾回傳原版更新導引。
 
 ## 不使用 Mac／雲端簽署的替代方式
 

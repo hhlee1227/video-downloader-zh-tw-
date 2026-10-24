@@ -14,9 +14,9 @@
 | 儲存流程 | deviceSpecific 路徑已移除、檔案選擇開啟、成功通知位於原儲存完成後分支 | 照片／檔案／音訊保存待 iPhone 實機驗證 |
 | 更新隔離 | skip_update 固定、reload 移除測試、無 openurl 動作、更新 fixture 拒絕 | 待 iPhone 實機驗證 |
 | 傳輸範圍 | 原 API 與欄位靜態盤點；實際空白輸入 API HTTP 200 證據 | 實際 CDN／重新導向／服務日誌範圍待驗證 |
-| 重現性 | 固定 UUID，重建候選檔 bytes 完全相同 | 官方簽署環境未提供 |
+| 重現性 | 固定 UUID，重建候選檔 bytes 完全相同 | 雲端官方 CLI 已實測，因未登入 iCloud 失敗 |
 
-本地化測試 25 項通過，另有 4 項直接執行候選檔內生成 JavaScript 的 Node VM 測試通過（網址抽取／語系／更新旗標、媒體對應、JSON 錯誤、觀察到的 API 更新回應）。詳見 adapter-tests.txt、candidate-js-tests.txt。VM 僅替代 document.write，沒有執行 WebKit、原生捷徑或網路下載。無已簽署修改版，無實際下載成功證據，無已保存 GitHub 的證據。
+本地化測試 25 項通過，另有 4 項直接執行候選檔內生成 JavaScript 的 Node VM 測試通過（網址抽取／語系／更新旗標、媒體對應、JSON 錯誤、觀察到的 API 更新回應）。詳見 adapter-tests.txt、candidate-js-tests.txt。VM 僅替代 document.write，沒有執行 WebKit、原生捷徑或網路下載。成果已保存 GitHub，53 檔 Git blob SHA 比對一致；雲端官方簽署實測因未登入 iCloud 而失敗，詳見 CLOUD-SIGNING.md。無已簽署修改版，無實際下載成功證據。
 
 ## iPhone 驗收步驟
 

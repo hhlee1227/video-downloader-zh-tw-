@@ -2,7 +2,7 @@
 
 這是由使用者提供的 Snap Video 2026-10.shortcut 改造的**未簽署候選版本**，尚不可標示為可直接匯入。Windows 環境沒有 Apple 官方 `shortcuts` 簽署工具，也無法執行 iOS 捷徑。
 
-只有 iPhone 的使用者請先看 [iPhone 專用後續步驟](reports/IPHONE-ONLY.md)。已準備 GitHub 雲端 macOS 官方簽署 workflow，首次上傳功能分支時會嘗試執行，不能保證簽署成功。最新執行結果以 GitHub Actions 為準。
+只有 iPhone 的使用者請先看 [iPhone 專用後續步驟](reports/IPHONE-ONLY.md)。**雲端 Mac 已實際嘗試官方簽署，但因未登入 iCloud 而失敗，沒有已簽署成果。**詳見 [真實執行與失敗證據](reports/CLOUD-SIGNING.md)。
 
 原下載引擎與 API 協定保留；目前原 API 的空白輸入探測卻回傳「更新原版捷徑」導引，中文版會明確停止該導引。**沒有實際影片或音訊下載成功的證據，下載服務相容性尚未確認。**
 

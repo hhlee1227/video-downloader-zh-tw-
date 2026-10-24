@@ -1,0 +1,30 @@
+{
+  "platform": "Windows-11-10.0.26300-SP0",
+  "official_shortcuts_cli": null,
+  "original": {
+    "actions": 85,
+    "missing_references": [],
+    "forward_references": [
+      [
+        32,
+        36,
+        "$.WFInput.Value"
+      ]
+    ],
+    "control_or_token_errors": [],
+    "note": "UUID existence and lexical control checks only; branch dominance and iOS action schemas require device verification."
+  },
+  "candidate": {
+    "actions": 117,
+    "missing_references": [],
+    "forward_references": [],
+    "control_or_token_errors": [],
+    "note": "UUID existence and lexical control checks only; branch dominance and iOS action schemas require device verification."
+  },
+  "static_checks": "PASS",
+  "adapter_tests": "25 pure adapter tests passed. No iOS execution or network download.",
+  "candidate_js_tests": "4 generated JavaScript tests passed in Node VM; WebKit and iOS not executed.",
+  "actual_download": "NOT EXECUTED",
+  "iOS_runtime": "待 iPhone 實機驗證",
+  "Apple_signature": "UNSIGNED CANDIDATE"
+}

@@ -1,0 +1,2832 @@
+[
+  {
+    "action": 0,
+    "path": "$.WFCommentActionText",
+    "text": "Setting ⬇️⬇️⬇️"
+  },
+  {
+    "action": 1,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[0].WFKey.Value.string",
+    "text": "show_menu"
+  },
+  {
+    "action": 1,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[0].WFKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 1,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[0].WFValue.WFSerializationType",
+    "text": "WFNumberSubstitutableState"
+  },
+  {
+    "action": 1,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[1].WFKey.Value.string",
+    "text": "ask_format"
+  },
+  {
+    "action": 1,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[1].WFKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 1,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[1].WFValue.WFSerializationType",
+    "text": "WFNumberSubstitutableState"
+  },
+  {
+    "action": 1,
+    "path": "$.WFItems.WFSerializationType",
+    "text": "WFDictionaryFieldValue"
+  },
+  {
+    "action": 1,
+    "path": "$.CustomOutputName",
+    "text": "setting"
+  },
+  {
+    "action": 1,
+    "path": "$.UUID",
+    "text": "822A6463-EF31-4C28-B275-02045AF8CBB6"
+  },
+  {
+    "action": 2,
+    "path": "$.WFCommentActionText",
+    "text": "[𝐕𝐢𝐝𝐞𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐬𝐡𝐨𝐫𝐭𝐜𝐮𝐭 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞 - 𝐒𝐧𝐚𝐩𝐕𝐢𝐝𝐞𝐨.𝐜𝐨]\n\n- 𝕊𝕦𝕡𝕡𝕠𝕣𝕥 𝕗𝕠𝕣 𝕚𝕆𝕊 𝟙𝟝 ,𝟙𝟞, 𝟙𝟟, 𝟙𝟠, 𝟚𝟞, 𝟚𝟟...\n\n- 𝙃𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚: 𝘼𝙙𝙙 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤 𝙨𝙝𝙤𝙧𝙩𝙘𝙪𝙩 𝙩𝙤 𝙮𝙤𝙪𝙧 𝙙𝙚𝙫𝙞𝙘𝙚, 𝙤𝙥𝙚𝙣 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤 𝙤𝙧 𝙢𝙪𝙨𝙞𝙘 𝙖𝙥𝙥 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙙𝙤𝙬𝙣𝙡𝙤𝙖𝙙 𝙛𝙧𝙤𝙢 > 𝙩𝙖𝙥 𝙨𝙝𝙖𝙧𝙚 > 𝙨𝙝𝙖𝙧𝙚 𝙬𝙞𝙩𝙝 𝙎𝙣𝙖𝙥 𝙑𝙞𝙙𝙚𝙤 𝙨𝙝𝙤𝙧𝙩𝙘𝙪𝙩\n\n- 𝙄𝙛 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤 𝙙𝙤𝙬𝙣𝙡𝙤𝙖𝙙 𝙛𝙖𝙞𝙡𝙨 𝙤𝙧 𝙪𝙥𝙙𝙖𝙩𝙚 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤 𝙨𝙝𝙤𝙧𝙩𝙘𝙪𝙩 𝙖𝙩 𝙨𝙣𝙖𝙥𝙫𝙞𝙙𝙚𝙤.𝙘𝙤\n\n- 𝙑𝙞𝙨𝙞𝙩 𝙨𝙣𝙖𝙥𝙫𝙞𝙙𝙚𝙤.𝙘𝙤 𝙩𝙤 𝙙𝙤𝙬𝙣𝙡𝙤𝙖𝙙 𝙙𝙞𝙧𝙚𝙘𝙩𝙡𝙮 𝙛𝙧𝙤𝙢 𝙢𝙖𝙣𝙮 𝙙𝙞𝙛𝙛𝙚𝙧𝙚𝙣𝙩 𝙨𝙤𝙪𝙧𝙘𝙚𝙨"
+  },
+  {
+    "action": 3,
+    "path": "$.WFBase64LineBreakMode",
+    "text": "None"
+  },
+  {
+    "action": 3,
+    "path": "$.WFInput.Value.Type",
+    "text": "ExtensionInput"
+  },
+  {
+    "action": 3,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 3,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 3,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 3,
+    "path": "$.UUID",
+    "text": "07FF0097-4D9D-46D8-8907-A03D7A18B828"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.Value.string",
+    "text": "data:text/html,<script>var b64=`￼`;var cfg=`￼`;function b64decodeUnicode(str){try{return decodeURIComponent(escape(atob(str)));}catch(e){try{return atob(str);}catch(e2){return \"\";}}}var t=b64decodeUnicode(b64);var c=JSON.parse(cfg);var m=t.match(/https?:\\/\\/[^\\s]+/);var lang=(navigator.language||navigator.userLanguage||\"\").split(\"-\")[0];var o={url_red:\"https://api.phimtat.vn/snapvideo/red64.php?url=\",url64:m?btoa(unescape(encodeURIComponent(m[0]))):\"\",lang:lang,ask_format:String(c.ask_format),show_menu:String(c.show_menu),skip_update:t.indexOf(\"{{skip_update}}\")>-1?\"true\":\"false\"};document.write(JSON.stringify(o));</script>"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.OutputUUID",
+    "text": "07FF0097-4D9D-46D8-8907-A03D7A18B828"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.OutputName",
+    "text": "Đã mã hóa Base64"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{44, 1}.OutputUUID",
+    "text": "822A6463-EF31-4C28-B275-02045AF8CBB6"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{44, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{44, 1}.OutputName",
+    "text": "setting"
+  },
+  {
+    "action": 4,
+    "path": "$.WFURLActionURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 4,
+    "path": "$.UUID",
+    "text": "301B1133-5079-496A-97F4-2F4153B5C859"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "URL"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "301B1133-5079-496A-97F4-2F4153B5C859"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFRichTextContentItem"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 5,
+    "path": "$.UUID",
+    "text": "98FB1476-69A7-4515-90C1-411A5FF4FE5B"
+  },
+  {
+    "action": 5,
+    "path": "$.WFEncodeMode",
+    "text": "Decode"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Văn bản URL đã giải mã"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "98FB1476-69A7-4515-90C1-411A5FF4FE5B"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 6,
+    "path": "$.WFVariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.string",
+    "text": "https://api.phimtat.vn/json/snapvideo.json?api-key=JILx9BLUzuCnwpXaSAygF9X10hIW3rNN&lang=￼&ver=8&ask_format=￼&show_menu=￼&skip_update=￼&b64=￼"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "lang"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "url64"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "ask_format"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "show_menu"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "skip_update"
+  },
+  {
+    "action": 7,
+    "path": "$.WFURLActionURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 7,
+    "path": "$.UUID",
+    "text": "ADEF168E-90F8-4C2F-99D0-BECD1120F0A2"
+  },
+  {
+    "action": 8,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "ADEF168E-90F8-4C2F-99D0-BECD1120F0A2"
+  },
+  {
+    "action": 8,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 8,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "URL"
+  },
+  {
+    "action": 8,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 8,
+    "path": "$.WFVariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 8,
+    "path": "$.UUID",
+    "text": "C9B68D00-E14C-432B-8DD5-386DD18DF6C8"
+  },
+  {
+    "action": 9,
+    "path": "$.UUID",
+    "text": "CAE71DCD-DE56-4049-976E-9614022CA997"
+  },
+  {
+    "action": 9,
+    "path": "$.GroupingIdentifier",
+    "text": "B0CBAD10-C1CA-4732-A2EF-BAE85B4D879F"
+  },
+  {
+    "action": 10,
+    "path": "$.WFBase64LineBreakMode",
+    "text": "None"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 10,
+    "path": "$.UUID",
+    "text": "EE7F3BBE-B3D8-479E-B3FB-CDF7ECD38E34"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.string",
+    "text": "￼￼"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{1, 1}.OutputUUID",
+    "text": "EE7F3BBE-B3D8-479E-B3FB-CDF7ECD38E34"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{1, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{1, 1}.OutputName",
+    "text": "Đã mã hóa Base64"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "url_red"
+  },
+  {
+    "action": 11,
+    "path": "$.WFURLActionURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 11,
+    "path": "$.UUID",
+    "text": "2EACD400-1681-4B4B-A6E4-779833A5111F"
+  },
+  {
+    "action": 12,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFKey.Value.string",
+    "text": "User-Agent"
+  },
+  {
+    "action": 12,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 12,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFValue.Value.string",
+    "text": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+  },
+  {
+    "action": 12,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFValue.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 12,
+    "path": "$.WFHTTPHeaders.WFSerializationType",
+    "text": "WFDictionaryFieldValue"
+  },
+  {
+    "action": 12,
+    "path": "$.CustomOutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 12,
+    "path": "$.UUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 12,
+    "path": "$.WFURL.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 12,
+    "path": "$.WFURL.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "2EACD400-1681-4B4B-A6E4-779833A5111F"
+  },
+  {
+    "action": 12,
+    "path": "$.WFURL.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 12,
+    "path": "$.WFURL.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "URL"
+  },
+  {
+    "action": 12,
+    "path": "$.WFURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFGenericFileContentItem"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].PropertyUserInfo",
+    "text": "WFFileExtensionProperty"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFPropertyVariableAggrandizement"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].PropertyName",
+    "text": "File Extension"
+  },
+  {
+    "action": 13,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 13,
+    "path": "$.WFConditionalActionString",
+    "text": "json"
+  },
+  {
+    "action": 13,
+    "path": "$.GroupingIdentifier",
+    "text": "21D691EE-7A21-4163-9D03-B07CDF53804C"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "reload"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 14,
+    "path": "$.GroupingIdentifier",
+    "text": "E55A8D27-20E9-4373-839D-BCB42B23FE5C"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "reload"
+  },
+  {
+    "action": 15,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 15,
+    "path": "$.UUID",
+    "text": "BE4ED7F9-E984-4D71-8376-9CB4C69CACE5"
+  },
+  {
+    "action": 15,
+    "path": "$.WFWorkflow.workflowIdentifier",
+    "text": "125F7F60-6580-48E9-BC6D-71D8A86BF3DE"
+  },
+  {
+    "action": 15,
+    "path": "$.WFWorkflow.workflowName",
+    "text": "Snap Video"
+  },
+  {
+    "action": 15,
+    "path": "$.WFWorkflowName",
+    "text": "Snap Video"
+  },
+  {
+    "action": 17,
+    "path": "$.GroupingIdentifier",
+    "text": "E55A8D27-20E9-4373-839D-BCB42B23FE5C"
+  },
+  {
+    "action": 17,
+    "path": "$.UUID",
+    "text": "67C1334E-5438-4321-B084-1321DEFE0454"
+  },
+  {
+    "action": 18,
+    "path": "$.GroupingIdentifier",
+    "text": "21D691EE-7A21-4163-9D03-B07CDF53804C"
+  },
+  {
+    "action": 18,
+    "path": "$.UUID",
+    "text": "51828EDB-3DE1-4489-82DA-583606631DDD"
+  },
+  {
+    "action": 19,
+    "path": "$.WFNumberValue",
+    "text": "1"
+  },
+  {
+    "action": 19,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 19,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 19,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 19,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 19,
+    "path": "$.UUID",
+    "text": "0611F04D-1BFD-4F41-8937-B5EF1775147E"
+  },
+  {
+    "action": 19,
+    "path": "$.GroupingIdentifier",
+    "text": "765E7431-8A43-43F4-AB19-D726E92B6487"
+  },
+  {
+    "action": 20,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 20,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 20,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 20,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 20,
+    "path": "$.WFVariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "skip_select"
+  },
+  {
+    "action": 21,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 21,
+    "path": "$.GroupingIdentifier",
+    "text": "26BB743A-600C-4AB9-8BA9-F6F85660F70F"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "labels"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 22,
+    "path": "$.WFVariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 23,
+    "path": "$.GroupingIdentifier",
+    "text": "26BB743A-600C-4AB9-8BA9-F6F85660F70F"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "select_multiple"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 24,
+    "path": "$.UUID",
+    "text": "C8C7E842-EB60-4B0F-89D8-0311FECAC352"
+  },
+  {
+    "action": 24,
+    "path": "$.GroupingIdentifier",
+    "text": "6BA83D09-7181-434F-BF17-420338C7BDCF"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "labels"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 25,
+    "path": "$.UUID",
+    "text": "9E387D77-8749-4CB0-87EE-53DBBFBCE53F"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "menu_title"
+  },
+  {
+    "action": 25,
+    "path": "$.WFChooseFromListActionPrompt.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 26,
+    "path": "$.GroupingIdentifier",
+    "text": "6BA83D09-7181-434F-BF17-420338C7BDCF"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "labels"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 27,
+    "path": "$.UUID",
+    "text": "ECAAF6C8-9124-4A27-B78E-01912352F0DE"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "menu_title"
+  },
+  {
+    "action": 27,
+    "path": "$.WFChooseFromListActionPrompt.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 28,
+    "path": "$.GroupingIdentifier",
+    "text": "6BA83D09-7181-434F-BF17-420338C7BDCF"
+  },
+  {
+    "action": 28,
+    "path": "$.UUID",
+    "text": "38D6FC8C-A068-4899-893C-105BEAA1CE8E"
+  },
+  {
+    "action": 29,
+    "path": "$.UUID",
+    "text": "1AF525B9-6B97-417F-9601-CE7159BD8694"
+  },
+  {
+    "action": 29,
+    "path": "$.GroupingIdentifier",
+    "text": "26BB743A-600C-4AB9-8BA9-F6F85660F70F"
+  },
+  {
+    "action": 30,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "1AF525B9-6B97-417F-9601-CE7159BD8694"
+  },
+  {
+    "action": 30,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 30,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Nếu kết quả"
+  },
+  {
+    "action": 30,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 30,
+    "path": "$.WFVariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 31,
+    "path": "$.GroupingIdentifier",
+    "text": "765E7431-8A43-43F4-AB19-D726E92B6487"
+  },
+  {
+    "action": 31,
+    "path": "$.UUID",
+    "text": "098DB5C7-BBB8-4D89-BE11-876FEE9D3E1F"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "790AF8CB-3ADA-4166-8259-635294BAB02C"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "url_media"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 32,
+    "path": "$.WFVariableName",
+    "text": "label_now"
+  },
+  {
+    "action": 33,
+    "path": "$.Input.Value.VariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 33,
+    "path": "$.Input.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 33,
+    "path": "$.Input.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 33,
+    "path": "$.CustomOutputName",
+    "text": "count_select"
+  },
+  {
+    "action": 33,
+    "path": "$.UUID",
+    "text": "9AE7A576-2647-4262-89DA-D020175FBB39"
+  },
+  {
+    "action": 34,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 34,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 34,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 34,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 34,
+    "path": "$.UUID",
+    "text": "2F8883DD-7421-40C7-9A2F-A9D9CC94F607"
+  },
+  {
+    "action": 34,
+    "path": "$.GroupingIdentifier",
+    "text": "73EFB1EE-AC6D-41D7-800E-14495BCD5BB4"
+  },
+  {
+    "action": 34,
+    "path": "$.WFNumberValue.Value.OutputUUID",
+    "text": "9AE7A576-2647-4262-89DA-D020175FBB39"
+  },
+  {
+    "action": 34,
+    "path": "$.WFNumberValue.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 34,
+    "path": "$.WFNumberValue.Value.OutputName",
+    "text": "count_select"
+  },
+  {
+    "action": 34,
+    "path": "$.WFNumberValue.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 35,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 35,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 35,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 35,
+    "path": "$.WFItemIndex.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 35,
+    "path": "$.WFItemIndex.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 35,
+    "path": "$.WFItemIndex.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 35,
+    "path": "$.UUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 35,
+    "path": "$.WFItemSpecifier",
+    "text": "Item At Index"
+  },
+  {
+    "action": 36,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 36,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 36,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 36,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 36,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 36,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "medias"
+  },
+  {
+    "action": 36,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 36,
+    "path": "$.CustomOutputName",
+    "text": "url_media"
+  },
+  {
+    "action": 36,
+    "path": "$.UUID",
+    "text": "790AF8CB-3ADA-4166-8259-635294BAB02C"
+  },
+  {
+    "action": 36,
+    "path": "$.WFDictionaryKey.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 36,
+    "path": "$.WFDictionaryKey.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 36,
+    "path": "$.WFDictionaryKey.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 36,
+    "path": "$.WFDictionaryKey.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "Mục từ danh sách"
+  },
+  {
+    "action": 36,
+    "path": "$.WFDictionaryKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "url_media"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "790AF8CB-3ADA-4166-8259-635294BAB02C"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "url"
+  },
+  {
+    "action": 37,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 37,
+    "path": "$.WFVariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 38,
+    "path": "$.UUID",
+    "text": "F9F3B53F-E2AC-4DB8-A565-83E7AF033579"
+  },
+  {
+    "action": 38,
+    "path": "$.GroupingIdentifier",
+    "text": "73EFB1EE-AC6D-41D7-800E-14495BCD5BB4"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "skip_select"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 39,
+    "path": "$.UUID",
+    "text": "32DEEC40-1056-41D7-8CDD-A70246BE076B"
+  },
+  {
+    "action": 39,
+    "path": "$.GroupingIdentifier",
+    "text": "972A43A4-7F81-4144-A648-B61E79E35833"
+  },
+  {
+    "action": 40,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 40,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 40,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "Mục từ danh sách"
+  },
+  {
+    "action": 40,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 40,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 40,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 40,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 40,
+    "path": "$.WFConditionalActionString",
+    "text": "💬"
+  },
+  {
+    "action": 40,
+    "path": "$.GroupingIdentifier",
+    "text": "08D2F755-B17D-4798-BA8B-E5F9F3CF4674"
+  },
+  {
+    "action": 41,
+    "path": "$.UUID",
+    "text": "7A0B6C09-6323-40BC-A08B-F4AF7B213CE7"
+  },
+  {
+    "action": 41,
+    "path": "$.WFTextActionText.Value.string",
+    "text": "￼￼"
+  },
+  {
+    "action": 41,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.Type",
+    "text": "Clipboard"
+  },
+  {
+    "action": 41,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ExtensionInput"
+  },
+  {
+    "action": 41,
+    "path": "$.WFTextActionText.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "7A0B6C09-6323-40BC-A08B-F4AF7B213CE7"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Văn bản"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 42,
+    "path": "$.UUID",
+    "text": "E1429924-0A32-402E-A9BF-DB6F6704C3E5"
+  },
+  {
+    "action": 42,
+    "path": "$.WFWorkflow.workflowIdentifier",
+    "text": "9CF09A08-C69A-45E7-AE87-17C759D5EB29"
+  },
+  {
+    "action": 42,
+    "path": "$.WFWorkflow.workflowName",
+    "text": "snapvideo"
+  },
+  {
+    "action": 42,
+    "path": "$.WFWorkflowName",
+    "text": "snapvideo"
+  },
+  {
+    "action": 44,
+    "path": "$.GroupingIdentifier",
+    "text": "08D2F755-B17D-4798-BA8B-E5F9F3CF4674"
+  },
+  {
+    "action": 44,
+    "path": "$.UUID",
+    "text": "8C380547-A8AE-4D40-A9BF-ECC7F8B8B5C3"
+  },
+  {
+    "action": 45,
+    "path": "$.GroupingIdentifier",
+    "text": "972A43A4-7F81-4144-A648-B61E79E35833"
+  },
+  {
+    "action": 45,
+    "path": "$.UUID",
+    "text": "B43931C5-333F-449C-B301-B045D33A78BA"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "Mục từ danh sách"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 46,
+    "path": "$.WFConditionalActionString",
+    "text": "💬"
+  },
+  {
+    "action": 46,
+    "path": "$.GroupingIdentifier",
+    "text": "7A1B3540-3EF7-4B0E-A2D9-77C29EAA2024"
+  },
+  {
+    "action": 47,
+    "path": "$.WFAskActionDefaultAnswer.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 47,
+    "path": "$.WFAskActionDefaultAnswer.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Clipboard"
+  },
+  {
+    "action": 47,
+    "path": "$.WFAskActionDefaultAnswer.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 47,
+    "path": "$.UUID",
+    "text": "F6178423-8207-423B-96F7-584507B95308"
+  },
+  {
+    "action": 47,
+    "path": "$.WFAskActionPrompt.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 47,
+    "path": "$.WFAskActionPrompt.Value.attachmentsByRange.{0, 1}.VariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 47,
+    "path": "$.WFAskActionPrompt.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 47,
+    "path": "$.WFAskActionPrompt.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 48,
+    "path": "$.UUID",
+    "text": "024886E2-FAAB-4E1B-B18D-AC058335974C"
+  },
+  {
+    "action": 48,
+    "path": "$.WFTextActionText.Value.string",
+    "text": "￼￼"
+  },
+  {
+    "action": 48,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.OutputUUID",
+    "text": "F6178423-8207-423B-96F7-584507B95308"
+  },
+  {
+    "action": 48,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 48,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.OutputName",
+    "text": "Đầu vào đã cung cấp"
+  },
+  {
+    "action": 48,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ExtensionInput"
+  },
+  {
+    "action": 48,
+    "path": "$.WFTextActionText.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 49,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "024886E2-FAAB-4E1B-B18D-AC058335974C"
+  },
+  {
+    "action": 49,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 49,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Văn bản"
+  },
+  {
+    "action": 49,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 49,
+    "path": "$.UUID",
+    "text": "0FB9BE9C-0B6E-4392-8BB4-0B89FFB5D6AF"
+  },
+  {
+    "action": 49,
+    "path": "$.WFWorkflow.workflowIdentifier",
+    "text": "9CF09A08-C69A-45E7-AE87-17C759D5EB29"
+  },
+  {
+    "action": 49,
+    "path": "$.WFWorkflow.workflowName",
+    "text": "snapvideo"
+  },
+  {
+    "action": 49,
+    "path": "$.WFWorkflowName",
+    "text": "snapvideo"
+  },
+  {
+    "action": 51,
+    "path": "$.GroupingIdentifier",
+    "text": "7A1B3540-3EF7-4B0E-A2D9-77C29EAA2024"
+  },
+  {
+    "action": 51,
+    "path": "$.UUID",
+    "text": "1641FB3B-A442-405B-9299-77061BC207D1"
+  },
+  {
+    "action": 52,
+    "path": "$.GroupingIdentifier",
+    "text": "972A43A4-7F81-4144-A648-B61E79E35833"
+  },
+  {
+    "action": 52,
+    "path": "$.UUID",
+    "text": "A5613065-0168-47F8-98D7-46BC858A5061"
+  },
+  {
+    "action": 53,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 53,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 53,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 53,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 53,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 53,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 53,
+    "path": "$.UUID",
+    "text": "3B86DC37-31DB-43DF-B417-673DA1A2FF64"
+  },
+  {
+    "action": 53,
+    "path": "$.WFConditionalActionString",
+    "text": "{{open-url}}"
+  },
+  {
+    "action": 53,
+    "path": "$.GroupingIdentifier",
+    "text": "2CD03588-BF0B-488E-8242-35C8BE39366B"
+  },
+  {
+    "action": 54,
+    "path": "$.WFInput.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 54,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "F9F3B53F-E2AC-4DB8-A565-83E7AF033579"
+  },
+  {
+    "action": 54,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 54,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "Nếu kết quả"
+  },
+  {
+    "action": 54,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 54,
+    "path": "$.UUID",
+    "text": "B0ACDC04-11D3-4D82-A369-E0CE1E4DC6D5"
+  },
+  {
+    "action": 54,
+    "path": "$.WFReplaceTextFind",
+    "text": "{{open-url}}"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "B0ACDC04-11D3-4D82-A369-E0CE1E4DC6D5"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "Văn bản được cập nhật"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 55,
+    "path": "$.GroupingIdentifier",
+    "text": "B10A0979-41DC-4BDD-80ED-DD329F581346"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "B0ACDC04-11D3-4D82-A369-E0CE1E4DC6D5"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Văn bản được cập nhật"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 56,
+    "path": "$.UUID",
+    "text": "A7514408-E07E-4CBD-878D-9B65C8EC1420"
+  },
+  {
+    "action": 57,
+    "path": "$.UUID",
+    "text": "BE1E42B5-1A5F-42F8-AD0A-3F656C65B41B"
+  },
+  {
+    "action": 57,
+    "path": "$.GroupingIdentifier",
+    "text": "B10A0979-41DC-4BDD-80ED-DD329F581346"
+  },
+  {
+    "action": 59,
+    "path": "$.GroupingIdentifier",
+    "text": "2CD03588-BF0B-488E-8242-35C8BE39366B"
+  },
+  {
+    "action": 59,
+    "path": "$.UUID",
+    "text": "7D18C594-3A34-408F-9E6E-74E1AC4C1DB1"
+  },
+  {
+    "action": 60,
+    "path": "$.WFNumberValue",
+    "text": "1"
+  },
+  {
+    "action": 60,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 60,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 60,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 60,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 60,
+    "path": "$.UUID",
+    "text": "7F2B94DA-746B-4153-B024-F38D79529030"
+  },
+  {
+    "action": 60,
+    "path": "$.GroupingIdentifier",
+    "text": "03901748-08BC-4A11-B022-1749204D3C47"
+  },
+  {
+    "action": 61,
+    "path": "$.WFRandomNumberMinimum",
+    "text": "1"
+  },
+  {
+    "action": 61,
+    "path": "$.WFRandomNumberMaximum",
+    "text": "9999999"
+  },
+  {
+    "action": 61,
+    "path": "$.UUID",
+    "text": "269E38DC-588C-4E22-8810-C0298C91D448"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.string",
+    "text": "snapvideo--￼-￼.￼"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "title"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{13, 1}.OutputUUID",
+    "text": "269E38DC-588C-4E22-8810-C0298C91D448"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{13, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{13, 1}.OutputName",
+    "text": "Số ngẫu nhiên"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.VariableName",
+    "text": "label_now"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "ext"
+  },
+  {
+    "action": 62,
+    "path": "$.WFName.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 62,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 62,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 62,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 62,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 62,
+    "path": "$.CustomOutputName",
+    "text": "media_loaded"
+  },
+  {
+    "action": 62,
+    "path": "$.UUID",
+    "text": "C548DE9A-A03A-4FAC-B1AD-E14D7D56C519"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "label_now"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "file"
+  },
+  {
+    "action": 63,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 63,
+    "path": "$.GroupingIdentifier",
+    "text": "9AEF3951-9ABE-41D0-A318-2E6236ED9F61"
+  },
+  {
+    "action": 64,
+    "path": "$.WFFolder.fileLocation.WFFileLocationType",
+    "text": "LocalStorage"
+  },
+  {
+    "action": 64,
+    "path": "$.WFFolder.fileLocation.fileProviderDomainID",
+    "text": "com.apple.FileProvider.LocalStorage"
+  },
+  {
+    "action": 64,
+    "path": "$.WFFolder.fileLocation.crossDeviceItemID",
+    "text": "deviceSpecific:D129E0CF-0E03-41B0-8622-D891875E4C0E:fp:/5Y3pK24X2EUV2nrTkNekD09M8fTzDNfhOgcCiw5STDM=/com.apple.FileProvider.LocalStorage//fid=109284"
+  },
+  {
+    "action": 64,
+    "path": "$.WFFolder.fileLocation.relativeSubpath",
+    "text": ""
+  },
+  {
+    "action": 64,
+    "path": "$.WFFolder.filename",
+    "text": "File Provider Storage"
+  },
+  {
+    "action": 64,
+    "path": "$.WFFolder.displayName",
+    "text": "我的iPhone"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "C548DE9A-A03A-4FAC-B1AD-E14D7D56C519"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "media_loaded"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 64,
+    "path": "$.UUID",
+    "text": "A49F0BD8-E21A-4999-A8E5-19B275C8551C"
+  },
+  {
+    "action": 65,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 65,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 65,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 65,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 65,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 65,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "open_file"
+  },
+  {
+    "action": 65,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 65,
+    "path": "$.WFVariableName",
+    "text": "m_file"
+  },
+  {
+    "action": 66,
+    "path": "$.GroupingIdentifier",
+    "text": "9AEF3951-9ABE-41D0-A318-2E6236ED9F61"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "C548DE9A-A03A-4FAC-B1AD-E14D7D56C519"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "media_loaded"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 67,
+    "path": "$.UUID",
+    "text": "A6F633B1-C67B-4F94-8A9E-855644EF49B6"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "open_album"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 68,
+    "path": "$.WFVariableName",
+    "text": "m_album"
+  },
+  {
+    "action": 69,
+    "path": "$.GroupingIdentifier",
+    "text": "9AEF3951-9ABE-41D0-A318-2E6236ED9F61"
+  },
+  {
+    "action": 69,
+    "path": "$.UUID",
+    "text": "A819AEDD-1915-408B-BFAD-AC5AE5B97F06"
+  },
+  {
+    "action": 70,
+    "path": "$.UUID",
+    "text": "258BA40B-F254-46F0-AB29-62BD16FDC870"
+  },
+  {
+    "action": 70,
+    "path": "$.GroupingIdentifier",
+    "text": "03901748-08BC-4A11-B022-1749204D3C47"
+  },
+  {
+    "action": 71,
+    "path": "$.WFNumberValue.Value.OutputUUID",
+    "text": "9AE7A576-2647-4262-89DA-D020175FBB39"
+  },
+  {
+    "action": 71,
+    "path": "$.WFNumberValue.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 71,
+    "path": "$.WFNumberValue.Value.OutputName",
+    "text": "count_select"
+  },
+  {
+    "action": 71,
+    "path": "$.WFNumberValue.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 71,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 71,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 71,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 71,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 71,
+    "path": "$.UUID",
+    "text": "FE56DA08-5A22-49B2-8968-C89C27552D46"
+  },
+  {
+    "action": 71,
+    "path": "$.GroupingIdentifier",
+    "text": "7A9730EF-FF39-4A16-99E1-17EE192BC0AF"
+  },
+  {
+    "action": 72,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "m_album"
+  },
+  {
+    "action": 72,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 72,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 72,
+    "path": "$.WFVariableName",
+    "text": "menu_done"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "m_file"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 73,
+    "path": "$.WFVariableName",
+    "text": "menu_done"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "close"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 74,
+    "path": "$.WFVariableName",
+    "text": "menu_done"
+  },
+  {
+    "action": 75,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "menu_done"
+  },
+  {
+    "action": 75,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 75,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 75,
+    "path": "$.CustomOutputName",
+    "text": "menu_done_select"
+  },
+  {
+    "action": 75,
+    "path": "$.UUID",
+    "text": "0FDA350A-B7A5-41F1-93DB-236F0F858EB7"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "menu_done_title"
+  },
+  {
+    "action": 75,
+    "path": "$.WFChooseFromListActionPrompt.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "menu_done_select"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "0FDA350A-B7A5-41F1-93DB-236F0F858EB7"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "open_album"
+  },
+  {
+    "action": 76,
+    "path": "$.WFConditionalActionString.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 76,
+    "path": "$.GroupingIdentifier",
+    "text": "AFA46A71-272D-421D-8985-C6ADD3948EC8"
+  },
+  {
+    "action": 77,
+    "path": "$.UUID",
+    "text": "10D87C22-378C-4D7F-8F4D-991557062875"
+  },
+  {
+    "action": 77,
+    "path": "$.WFAppIdentifier",
+    "text": "com.apple.mobileslideshow"
+  },
+  {
+    "action": 77,
+    "path": "$.WFSelectedApp.BundleIdentifier",
+    "text": "com.apple.mobileslideshow"
+  },
+  {
+    "action": 77,
+    "path": "$.WFSelectedApp.Name",
+    "text": "照片"
+  },
+  {
+    "action": 77,
+    "path": "$.WFSelectedApp.TeamIdentifier",
+    "text": "0000000000"
+  },
+  {
+    "action": 78,
+    "path": "$.GroupingIdentifier",
+    "text": "AFA46A71-272D-421D-8985-C6ADD3948EC8"
+  },
+  {
+    "action": 78,
+    "path": "$.UUID",
+    "text": "71A93B8D-C6F8-4B8E-B57A-8A80128A7B17"
+  },
+  {
+    "action": 79,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 79,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 79,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "menu_done_select"
+  },
+  {
+    "action": 79,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "0FDA350A-B7A5-41F1-93DB-236F0F858EB7"
+  },
+  {
+    "action": 79,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 79,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 79,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "open_file"
+  },
+  {
+    "action": 79,
+    "path": "$.WFConditionalActionString.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 79,
+    "path": "$.GroupingIdentifier",
+    "text": "F94030DF-0C6A-4F6E-9FEF-092AD92CF02D"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "A49F0BD8-E21A-4999-A8E5-19B275C8551C"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Tệp đã lưu"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 80,
+    "path": "$.WFSelectedApp.BundleIdentifier",
+    "text": "com.apple.DocumentsApp"
+  },
+  {
+    "action": 80,
+    "path": "$.WFSelectedApp.Name",
+    "text": "檔案"
+  },
+  {
+    "action": 80,
+    "path": "$.WFSelectedApp.TeamIdentifier",
+    "text": "0000000000"
+  },
+  {
+    "action": 80,
+    "path": "$.UUID",
+    "text": "3B145C12-8BD5-41C8-9146-C77B371DAC12"
+  },
+  {
+    "action": 80,
+    "path": "$.WFOpenInAppIdentifier",
+    "text": "com.apple.finder"
+  },
+  {
+    "action": 81,
+    "path": "$.UUID",
+    "text": "14A5BC6B-C68E-439F-854A-17C8AC92518C"
+  },
+  {
+    "action": 81,
+    "path": "$.GroupingIdentifier",
+    "text": "F94030DF-0C6A-4F6E-9FEF-092AD92CF02D"
+  },
+  {
+    "action": 83,
+    "path": "$.UUID",
+    "text": "ECB08F84-36A5-4F65-974D-D0FE43C81057"
+  },
+  {
+    "action": 83,
+    "path": "$.GroupingIdentifier",
+    "text": "7A9730EF-FF39-4A16-99E1-17EE192BC0AF"
+  },
+  {
+    "action": 84,
+    "path": "$.UUID",
+    "text": "3DBD884F-B423-4F13-965E-B9DC2419AE1A"
+  },
+  {
+    "action": 84,
+    "path": "$.GroupingIdentifier",
+    "text": "B0CBAD10-C1CA-4732-A2EF-BAE85B4D879F"
+  }
+]

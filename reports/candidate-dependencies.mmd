@@ -1,0 +1,276 @@
+flowchart TD
+ %% Solid edges are lexical order, NOT runtime branch edges. Grouping identifiers in inventory define branches.
+ a0["0: conditional"]
+ a0 --> a1
+ a1["1: gettext"]
+ a1 --> a2
+ a2["2: conditional"]
+ a2 --> a3
+ a3["3: ask"]
+ a3 --> a4
+ a4["4: conditional"]
+ a4 --> a5
+ a5["5: match"]
+ a5 --> a6
+ a6["6: conditional"]
+ a6 --> a7
+ a7["7: alert"]
+ a7 --> a8
+ a8["8: exit"]
+ a8 --> a9
+ a9["9: conditional"]
+ a9 --> a10
+ a10["10: getitemfromlist"]
+ a10 --> a11
+ a11["11: nothing"]
+ a11 --> a12
+ a12["12: setvariable"]
+ a12 --> a13
+ a13["13: nothing"]
+ a13 --> a14
+ a14["14: setvariable"]
+ a14 --> a15
+ a15["15: nothing"]
+ a15 --> a16
+ a16["16: setvariable"]
+ a16 --> a17
+ a17["17: nothing"]
+ a17 --> a18
+ a18["18: setvariable"]
+ a18 --> a19
+ a19["19: comment"]
+ a19 --> a20
+ a20["20: dictionary"]
+ a20 --> a21
+ a21["21: comment"]
+ a21 --> a22
+ a22["22: base64encode"]
+ a22 --> a23
+ a23["23: url"]
+ a23 --> a24
+ a24["24: urlencode"]
+ a24 --> a25
+ a25["25: setvariable"]
+ a25 --> a26
+ a26["26: url"]
+ a26 --> a27
+ a27["27: setvariable"]
+ a27 --> a28
+ a28["28: count"]
+ a28 --> a29
+ a29["29: base64encode"]
+ a29 --> a30
+ a30["30: url"]
+ a30 --> a31
+ a31["31: downloadurl"]
+ a31 --> a32
+ a32["32: conditional"]
+ a32 --> a33
+ a33["33: conditional"]
+ a33 --> a34
+ a34["34: alert"]
+ a34 --> a35
+ a35["35: exit"]
+ a35 --> a36
+ a36["36: conditional"]
+ a36 --> a37
+ a37["37: conditional"]
+ a37 --> a38
+ a38["38: conditional"]
+ a38 --> a39
+ a39["39: base64encode"]
+ a39 --> a40
+ a40["40: url"]
+ a40 --> a41
+ a41["41: urlencode"]
+ a41 --> a42
+ a42["42: conditional"]
+ a42 --> a43
+ a43["43: alert"]
+ a43 --> a44
+ a44["44: exit"]
+ a44 --> a45
+ a45["45: conditional"]
+ a45 --> a46
+ a46["46: setvariable"]
+ a46 --> a47
+ a47["47: conditional"]
+ a47 --> a48
+ a48["48: alert"]
+ a48 --> a49
+ a49["49: exit"]
+ a49 --> a50
+ a50["50: conditional"]
+ a50 --> a51
+ a51["51: conditional"]
+ a51 --> a52
+ a52["52: alert"]
+ a52 --> a53
+ a53["53: exit"]
+ a53 --> a54
+ a54["54: conditional"]
+ a54 --> a55
+ a55["55: conditional"]
+ a55 --> a56
+ a56["56: setvariable"]
+ a56 --> a57
+ a57["57: conditional"]
+ a57 --> a58
+ a58["58: conditional"]
+ a58 --> a59
+ a59["59: choosefromlist"]
+ a59 --> a60
+ a60["60: conditional"]
+ a60 --> a61
+ a61["61: choosefromlist"]
+ a61 --> a62
+ a62["62: conditional"]
+ a62 --> a63
+ a63["63: conditional"]
+ a63 --> a64
+ a64["64: setvariable"]
+ a64 --> a65
+ a65["65: conditional"]
+ a65 --> a66
+ a66["66: count"]
+ a66 --> a67
+ a67["67: conditional"]
+ a67 --> a68
+ a68["68: getitemfromlist"]
+ a68 --> a69
+ a69["69: getvalueforkey"]
+ a69 --> a70
+ a70["70: setvariable"]
+ a70 --> a71
+ a71["71: setvariable"]
+ a71 --> a72
+ a72["72: conditional"]
+ a72 --> a73
+ a73["73: conditional"]
+ a73 --> a74
+ a74["74: conditional"]
+ a74 --> a75
+ a75["75: gettext"]
+ a75 --> a76
+ a76["76: runworkflow"]
+ a76 --> a77
+ a77["77: exit"]
+ a77 --> a78
+ a78["78: conditional"]
+ a78 --> a79
+ a79["79: conditional"]
+ a79 --> a80
+ a80["80: conditional"]
+ a80 --> a81
+ a81["81: ask"]
+ a81 --> a82
+ a82["82: gettext"]
+ a82 --> a83
+ a83["83: runworkflow"]
+ a83 --> a84
+ a84["84: exit"]
+ a84 --> a85
+ a85["85: conditional"]
+ a85 --> a86
+ a86["86: conditional"]
+ a86 --> a87
+ a87["87: conditional"]
+ a87 --> a88
+ a88["88: replace"]
+ a88 --> a89
+ a89["89: conditional"]
+ a89 --> a90
+ a90["90: alert"]
+ a90 --> a91
+ a91["91: conditional"]
+ a91 --> a92
+ a92["92: exit"]
+ a92 --> a93
+ a93["93: conditional"]
+ a93 --> a94
+ a94["94: conditional"]
+ a94 --> a95
+ a95["95: random"]
+ a95 --> a96
+ a96["96: setitemname"]
+ a96 --> a97
+ a97["97: conditional"]
+ a97 --> a98
+ a98["98: gettext"]
+ a98 --> a99
+ a99["99: conditional"]
+ a99 --> a100
+ a100["100: list"]
+ a100 --> a101
+ a101["101: choosefromlist"]
+ a101 --> a102
+ a102["102: conditional"]
+ a102 --> a103
+ a103["103: conditional"]
+ a103 --> a104
+ a104["104: save"]
+ a104 --> a105
+ a105["105: setvariable"]
+ a105 --> a106
+ a106["106: conditional"]
+ a106 --> a107
+ a107["107: savetocameraroll"]
+ a107 --> a108
+ a108["108: setvariable"]
+ a108 --> a109
+ a109["109: conditional"]
+ a109 --> a110
+ a110["110: conditional"]
+ a110 --> a111
+ a111["111: conditional"]
+ a111 --> a112
+ a112["112: notification"]
+ a112 --> a113
+ a113["113: exit"]
+ a113 --> a114
+ a114["114: conditional"]
+ a114 --> a115
+ a115["115: count"]
+ a115 --> a116
+ a116["116: alert"]
+ a4 -. data .-> a5
+ a5 -. data .-> a6
+ a5 -. data .-> a10
+ a11 -. data .-> a12
+ a13 -. data .-> a14
+ a15 -. data .-> a16
+ a17 -. data .-> a18
+ a10 -. data .-> a22
+ a22 -. data .-> a23
+ a20 -. data .-> a23
+ a23 -. data .-> a24
+ a24 -. data .-> a25
+ a26 -. data .-> a27
+ a29 -. data .-> a30
+ a30 -. data .-> a31
+ a31 -. data .-> a32
+ a31 -. data .-> a33
+ a31 -. data .-> a39
+ a39 -. data .-> a40
+ a40 -. data .-> a41
+ a41 -. data .-> a42
+ a41 -. data .-> a46
+ a63 -. data .-> a64
+ a66 -. data .-> a67
+ a68 -. data .-> a69
+ a69 -. data .-> a70
+ a69 -. data .-> a71
+ a68 -. data .-> a74
+ a75 -. data .-> a76
+ a68 -. data .-> a80
+ a81 -. data .-> a82
+ a82 -. data .-> a83
+ a72 -. data .-> a88
+ a88 -. data .-> a89
+ a31 -. data .-> a96
+ a95 -. data .-> a96
+ a100 -. data .-> a101
+ a102 -. data .-> a103
+ a96 -. data .-> a104
+ a96 -. data .-> a107
+ a66 -. data .-> a111

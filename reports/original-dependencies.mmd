@@ -1,0 +1,205 @@
+flowchart TD
+ %% Solid edges are lexical order, NOT runtime branch edges. Grouping identifiers in inventory define branches.
+ a0["0: comment"]
+ a0 --> a1
+ a1["1: dictionary"]
+ a1 --> a2
+ a2["2: comment"]
+ a2 --> a3
+ a3["3: base64encode"]
+ a3 --> a4
+ a4["4: url"]
+ a4 --> a5
+ a5["5: urlencode"]
+ a5 --> a6
+ a6["6: setvariable"]
+ a6 --> a7
+ a7["7: url"]
+ a7 --> a8
+ a8["8: setvariable"]
+ a8 --> a9
+ a9["9: count"]
+ a9 --> a10
+ a10["10: base64encode"]
+ a10 --> a11
+ a11["11: url"]
+ a11 --> a12
+ a12["12: downloadurl"]
+ a12 --> a13
+ a13["13: conditional"]
+ a13 --> a14
+ a14["14: conditional"]
+ a14 --> a15
+ a15["15: runworkflow"]
+ a15 --> a16
+ a16["16: exit"]
+ a16 --> a17
+ a17["17: conditional"]
+ a17 --> a18
+ a18["18: conditional"]
+ a18 --> a19
+ a19["19: conditional"]
+ a19 --> a20
+ a20["20: setvariable"]
+ a20 --> a21
+ a21["21: conditional"]
+ a21 --> a22
+ a22["22: setvariable"]
+ a22 --> a23
+ a23["23: conditional"]
+ a23 --> a24
+ a24["24: conditional"]
+ a24 --> a25
+ a25["25: choosefromlist"]
+ a25 --> a26
+ a26["26: conditional"]
+ a26 --> a27
+ a27["27: choosefromlist"]
+ a27 --> a28
+ a28["28: conditional"]
+ a28 --> a29
+ a29["29: conditional"]
+ a29 --> a30
+ a30["30: setvariable"]
+ a30 --> a31
+ a31["31: conditional"]
+ a31 --> a32
+ a32["32: setvariable"]
+ a32 --> a33
+ a33["33: count"]
+ a33 --> a34
+ a34["34: conditional"]
+ a34 --> a35
+ a35["35: getitemfromlist"]
+ a35 --> a36
+ a36["36: getvalueforkey"]
+ a36 --> a37
+ a37["37: setvariable"]
+ a37 --> a38
+ a38["38: conditional"]
+ a38 --> a39
+ a39["39: conditional"]
+ a39 --> a40
+ a40["40: conditional"]
+ a40 --> a41
+ a41["41: gettext"]
+ a41 --> a42
+ a42["42: runworkflow"]
+ a42 --> a43
+ a43["43: exit"]
+ a43 --> a44
+ a44["44: conditional"]
+ a44 --> a45
+ a45["45: conditional"]
+ a45 --> a46
+ a46["46: conditional"]
+ a46 --> a47
+ a47["47: ask"]
+ a47 --> a48
+ a48["48: gettext"]
+ a48 --> a49
+ a49["49: runworkflow"]
+ a49 --> a50
+ a50["50: exit"]
+ a50 --> a51
+ a51["51: conditional"]
+ a51 --> a52
+ a52["52: conditional"]
+ a52 --> a53
+ a53["53: conditional"]
+ a53 --> a54
+ a54["54: replace"]
+ a54 --> a55
+ a55["55: conditional"]
+ a55 --> a56
+ a56["56: openurl"]
+ a56 --> a57
+ a57["57: conditional"]
+ a57 --> a58
+ a58["58: exit"]
+ a58 --> a59
+ a59["59: conditional"]
+ a59 --> a60
+ a60["60: conditional"]
+ a60 --> a61
+ a61["61: random"]
+ a61 --> a62
+ a62["62: setitemname"]
+ a62 --> a63
+ a63["63: conditional"]
+ a63 --> a64
+ a64["64: save"]
+ a64 --> a65
+ a65["65: setvariable"]
+ a65 --> a66
+ a66["66: conditional"]
+ a66 --> a67
+ a67["67: savetocameraroll"]
+ a67 --> a68
+ a68["68: setvariable"]
+ a68 --> a69
+ a69["69: conditional"]
+ a69 --> a70
+ a70["70: conditional"]
+ a70 --> a71
+ a71["71: conditional"]
+ a71 --> a72
+ a72["72: appendvariable"]
+ a72 --> a73
+ a73["73: appendvariable"]
+ a73 --> a74
+ a74["74: appendvariable"]
+ a74 --> a75
+ a75["75: choosefromlist"]
+ a75 --> a76
+ a76["76: conditional"]
+ a76 --> a77
+ a77["77: openapp"]
+ a77 --> a78
+ a78["78: conditional"]
+ a78 --> a79
+ a79["79: conditional"]
+ a79 --> a80
+ a80["80: openin"]
+ a80 --> a81
+ a81["81: conditional"]
+ a81 --> a82
+ a82["82: exit"]
+ a82 --> a83
+ a83["83: conditional"]
+ a83 --> a84
+ a84["84: count"]
+ a3 -. data .-> a4
+ a1 -. data .-> a4
+ a4 -. data .-> a5
+ a5 -. data .-> a6
+ a7 -. data .-> a8
+ a10 -. data .-> a11
+ a11 -. data .-> a12
+ a12 -. data .-> a13
+ a12 -. data .-> a14
+ a12 -. data .-> a15
+ a12 -. data .-> a20
+ a12 -. data .-> a25
+ a12 -. data .-> a27
+ a29 -. data .-> a30
+ a36 -. data .-> a32
+ a33 -. data .-> a34
+ a35 -. data .-> a36
+ a36 -. data .-> a37
+ a35 -. data .-> a40
+ a41 -. data .-> a42
+ a35 -. data .-> a46
+ a47 -. data .-> a48
+ a48 -. data .-> a49
+ a38 -. data .-> a54
+ a54 -. data .-> a55
+ a54 -. data .-> a56
+ a61 -. data .-> a62
+ a12 -. data .-> a62
+ a62 -. data .-> a64
+ a62 -. data .-> a67
+ a33 -. data .-> a71
+ a75 -. data .-> a76
+ a75 -. data .-> a79
+ a64 -. data .-> a80

@@ -1,0 +1,15 @@
+{
+    "labels": [
+        "🖼️ JPG UPDATE GUIDE",
+        "❌ Close"
+    ],
+    "title": "Update shortcuts at snapvideo.co",
+    "source": "snapvideo.co",
+    "thumbnail": "https://lh3.googleusercontent.com/-jW8NOyCChdY/akXqqy3nbgI/AAAAAAAE03w/2_N5WcRqLY47o8FvyFx-wstI1PUQQ4i_QCK4BGAsYHg/s0/update-sc.jpg",
+    "medias": {
+        "🖼️ JPG UPDATE GUIDE": "https://lh3.googleusercontent.com/-jW8NOyCChdY/akXqqy3nbgI/AAAAAAAE03w/2_N5WcRqLY47o8FvyFx-wstI1PUQQ4i_QCK4BGAsYHg/s0/update-sc.jpg",
+        "❌ Close": "{{open-url}}"
+    },
+    "message": "Updated shortcuts at snapvideo.co",
+    "menu_title": "Choose media:"
+}

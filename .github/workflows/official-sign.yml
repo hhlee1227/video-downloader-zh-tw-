@@ -1,0 +1,46 @@
+name: Try Apple official signing
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - feature/shortcuts-zh-tw-v1
+    paths:
+      - .github/workflows/official-sign.yml
+permissions:
+  contents: read
+jobs:
+  sign:
+    runs-on: macos-15
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Detect Apple tools
+        run: |
+          sw_vers
+          command -v shortcuts
+          command -v aea
+          command -v aa
+      - name: Sign with Apple official CLI
+        run: bash tools/sign-macos.sh
+      - name: Install decoding dependencies
+        run: |
+          python3 -m venv .venv
+          .venv/bin/python -m pip install -r requirements.txt
+      - name: Verify signed payload against candidate
+        run: |
+          .venv/bin/python src/decode.py dist/Video-Downloader-V1.0.signed.shortcut --output-dir reports/signed-decoded
+          .venv/bin/python tools/compare-signed.py
+      - name: Upload verified signed artifact
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: Video-Downloader-V1.0-official-signed-payload-verified
+          if-no-files-found: error
+          retention-days: 14
+          path: |
+            dist/Video-Downloader-V1.0.signed.shortcut
+            dist/Video-Downloader-V1.0.unsigned.shortcut
+            reports/signing-before.sha256
+            reports/signing-after.sha256
+            reports/signed-decoded/signature-check.json

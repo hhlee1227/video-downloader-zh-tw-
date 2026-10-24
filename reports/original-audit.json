@@ -1,0 +1,13 @@
+{
+  "actions": 85,
+  "missing_references": [],
+  "forward_references": [
+    [
+      32,
+      36,
+      "$.WFInput.Value"
+    ]
+  ],
+  "control_or_token_errors": [],
+  "note": "UUID existence and lexical control checks only; branch dominance and iOS action schemas require device verification."
+}

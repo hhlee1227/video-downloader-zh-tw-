@@ -1,0 +1,248 @@
+flowchart TD
+ %% Static control flow; native errors/cancellation may terminate at any UI/network action.
+ a0["0: conditional"]
+ a1["1: gettext"]
+ a2["2: conditional"]
+ a3["3: ask"]
+ a4["4: conditional"]
+ a5["5: match"]
+ a6["6: conditional"]
+ a7["7: alert"]
+ a8["8: exit"]
+ a9["9: conditional"]
+ a10["10: getitemfromlist"]
+ a11["11: nothing"]
+ a12["12: setvariable"]
+ a13["13: nothing"]
+ a14["14: setvariable"]
+ a15["15: nothing"]
+ a16["16: setvariable"]
+ a17["17: nothing"]
+ a18["18: setvariable"]
+ a19["19: comment"]
+ a20["20: dictionary"]
+ a21["21: comment"]
+ a22["22: base64encode"]
+ a23["23: url"]
+ a24["24: urlencode"]
+ a25["25: setvariable"]
+ a26["26: url"]
+ a27["27: setvariable"]
+ a28["28: count"]
+ a29["29: base64encode"]
+ a30["30: url"]
+ a31["31: downloadurl"]
+ a32["32: conditional"]
+ a33["33: conditional"]
+ a34["34: alert"]
+ a35["35: exit"]
+ a36["36: conditional"]
+ a37["37: conditional"]
+ a38["38: conditional"]
+ a39["39: base64encode"]
+ a40["40: url"]
+ a41["41: urlencode"]
+ a42["42: conditional"]
+ a43["43: alert"]
+ a44["44: exit"]
+ a45["45: conditional"]
+ a46["46: setvariable"]
+ a47["47: conditional"]
+ a48["48: alert"]
+ a49["49: exit"]
+ a50["50: conditional"]
+ a51["51: conditional"]
+ a52["52: alert"]
+ a53["53: exit"]
+ a54["54: conditional"]
+ a55["55: conditional"]
+ a56["56: setvariable"]
+ a57["57: conditional"]
+ a58["58: conditional"]
+ a59["59: choosefromlist"]
+ a60["60: conditional"]
+ a61["61: choosefromlist"]
+ a62["62: conditional"]
+ a63["63: conditional"]
+ a64["64: setvariable"]
+ a65["65: conditional"]
+ a66["66: count"]
+ a67["67: conditional"]
+ a68["68: getitemfromlist"]
+ a69["69: getvalueforkey"]
+ a70["70: setvariable"]
+ a71["71: setvariable"]
+ a72["72: conditional"]
+ a73["73: conditional"]
+ a74["74: conditional"]
+ a75["75: gettext"]
+ a76["76: runworkflow"]
+ a77["77: exit"]
+ a78["78: conditional"]
+ a79["79: conditional"]
+ a80["80: conditional"]
+ a81["81: ask"]
+ a82["82: gettext"]
+ a83["83: runworkflow"]
+ a84["84: exit"]
+ a85["85: conditional"]
+ a86["86: conditional"]
+ a87["87: conditional"]
+ a88["88: replace"]
+ a89["89: conditional"]
+ a90["90: alert"]
+ a91["91: conditional"]
+ a92["92: exit"]
+ a93["93: conditional"]
+ a94["94: conditional"]
+ a95["95: random"]
+ a96["96: setitemname"]
+ a97["97: conditional"]
+ a98["98: gettext"]
+ a99["99: conditional"]
+ a100["100: list"]
+ a101["101: choosefromlist"]
+ a102["102: conditional"]
+ a103["103: conditional"]
+ a104["104: save"]
+ a105["105: setvariable"]
+ a106["106: conditional"]
+ a107["107: savetocameraroll"]
+ a108["108: setvariable"]
+ a109["109: conditional"]
+ a110["110: conditional"]
+ a111["111: conditional"]
+ a112["112: notification"]
+ a113["113: exit"]
+ a114["114: conditional"]
+ a115["115: count"]
+ a116["116: alert"]
+ a0 -->|true| a1
+ a0 -->|false| a3
+ a1 -->|next| a2
+ a2 -->|join| a4
+ a3 -->|next| a4
+ a4 -->|next| a5
+ a5 -->|next| a6
+ a6 -->|true| a7
+ a6 -->|false| a9
+ a7 -->|next| a8
+ a9 -->|next| a10
+ a10 -->|next| a11
+ a11 -->|next| a12
+ a12 -->|next| a13
+ a13 -->|next| a14
+ a14 -->|next| a15
+ a15 -->|next| a16
+ a16 -->|next| a17
+ a17 -->|next| a18
+ a18 -->|next| a19
+ a19 -->|next| a20
+ a20 -->|next| a21
+ a21 -->|next| a22
+ a22 -->|next| a23
+ a23 -->|next| a24
+ a24 -->|next| a25
+ a25 -->|next| a26
+ a26 -->|next| a27
+ a27 -->|next| a28
+ a28 -->|iterate| a29
+ a28 -->|zero iterations| a116
+ a29 -->|next| a30
+ a30 -->|next| a31
+ a31 -->|next| a32
+ a32 -->|true| a33
+ a32 -->|false| a37
+ a33 -->|true| a34
+ a33 -->|false| a36
+ a34 -->|next| a35
+ a36 -->|next| a37
+ a37 -->|next| a38
+ a38 -->|true| a39
+ a38 -->|false| a65
+ a39 -->|next| a40
+ a40 -->|next| a41
+ a41 -->|next| a42
+ a42 -->|true| a43
+ a42 -->|false| a45
+ a43 -->|next| a44
+ a45 -->|next| a46
+ a46 -->|next| a47
+ a47 -->|true| a48
+ a47 -->|false| a50
+ a48 -->|next| a49
+ a50 -->|next| a51
+ a51 -->|true| a52
+ a51 -->|false| a54
+ a52 -->|next| a53
+ a54 -->|next| a55
+ a55 -->|true| a56
+ a55 -->|false| a58
+ a56 -->|next| a57
+ a57 -->|join| a63
+ a58 -->|true| a59
+ a58 -->|false| a61
+ a59 -->|next| a60
+ a60 -->|join| a62
+ a61 -->|next| a62
+ a62 -->|next| a63
+ a63 -->|next| a64
+ a64 -->|next| a65
+ a65 -->|next| a66
+ a66 -->|next| a67
+ a67 -->|true| a68
+ a67 -->|false| a72
+ a68 -->|next| a69
+ a69 -->|next| a70
+ a70 -->|next| a71
+ a71 -->|next| a72
+ a72 -->|next| a73
+ a73 -->|true| a74
+ a73 -->|false| a80
+ a74 -->|true| a75
+ a74 -->|false| a78
+ a75 -->|next| a76
+ a76 -->|next| a77
+ a78 -->|next| a79
+ a79 -->|join| a86
+ a80 -->|true| a81
+ a80 -->|false| a85
+ a81 -->|next| a82
+ a82 -->|next| a83
+ a83 -->|next| a84
+ a85 -->|next| a86
+ a86 -->|next| a87
+ a87 -->|true| a88
+ a87 -->|false| a93
+ a88 -->|next| a89
+ a89 -->|true| a90
+ a89 -->|false| a91
+ a90 -->|next| a91
+ a91 -->|next| a92
+ a93 -->|next| a94
+ a94 -->|true| a95
+ a94 -->|false| a110
+ a95 -->|next| a96
+ a96 -->|next| a97
+ a97 -->|true| a98
+ a97 -->|false| a100
+ a98 -->|next| a99
+ a99 -->|join| a102
+ a100 -->|next| a101
+ a101 -->|next| a102
+ a102 -->|next| a103
+ a103 -->|true| a104
+ a103 -->|false| a107
+ a104 -->|next| a105
+ a105 -->|next| a106
+ a106 -->|join| a109
+ a107 -->|next| a108
+ a108 -->|next| a109
+ a109 -->|next| a110
+ a110 -->|next| a111
+ a111 -->|true| a112
+ a111 -->|false| a114
+ a112 -->|next| a113
+ a114 -->|next| a115
+ a115 -->|next iteration| a29
+ a115 -->|finished| a116

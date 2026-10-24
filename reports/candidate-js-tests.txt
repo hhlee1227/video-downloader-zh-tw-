@@ -1,0 +1,5 @@
+PASS actual generated bootstrap URL extraction, locale and update flag in Node VM
+PASS actual generated adapter bridge preserves media mapping
+PASS actual generated adapter bridge catches malformed JSON
+PASS actual generated adapter bridge rejects observed update response
+4 generated JavaScript tests passed in Node VM; WebKit and iOS not executed.

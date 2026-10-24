@@ -1,0 +1,11 @@
+{
+  "sha256": "96360b959801fa76bb6dc3820c1a44115bda0a77bea4cd217d68036f8dac7be8",
+  "profile": 0,
+  "embedded_key_signature": "PASS",
+  "AEA_MAC_checksums": "PASS",
+  "Apple_trust_chain": "NOT VALIDATED",
+  "subject": "C=US,O=Apple Inc.,CN=f38d2026832e4702bba3227352dd2f00",
+  "issuer": "C=US,O=Apple Inc.,OU=Apple Certification Authority,CN=Apple System Integration CA 4",
+  "not_before": "2026-10-24 02:06:39+00:00",
+  "not_after": "2027-11-18 20:32:18+00:00"
+}

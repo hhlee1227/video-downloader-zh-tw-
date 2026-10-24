@@ -1,0 +1,26 @@
+PASS translation 选择操作
+PASS translation 输入视频链接
+PASS translation 使用指南
+PASS translation 分享菜单中没有显示？
+PASS translation 下次隐藏此菜单
+PASS translation 输入视频链接。已复制的链接会自动粘贴。
+PASS translation 关闭
+PASS translation 打开相册
+PASS translation 打开文件
+PASS translation 下载完成
+PASS translation 选择格式
+PASS translation 选择视频
+PASS translation Choose media:
+PASS translation Close
+PASS translation JPG UPDATE GUIDE
+PASS single video
+PASS multiple media
+PASS audio
+PASS collision resistant
+PASS malformed response
+PASS missing media
+PASS reload removed
+PASS API fields preserved
+PASS observed API update response blocked
+PASS unknown dynamic text retained honestly
+25 pure adapter tests passed. No iOS execution or network download.

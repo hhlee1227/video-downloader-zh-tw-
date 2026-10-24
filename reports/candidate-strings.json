@@ -1,0 +1,2877 @@
+[
+  {
+    "action": 0,
+    "path": "$.GroupingIdentifier",
+    "text": "39A4F3CE-5FD1-569C-BCF4-2DC38FB3D0B3"
+  },
+  {
+    "action": 0,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 0,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ExtensionInput"
+  },
+  {
+    "action": 0,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 1,
+    "path": "$.WFTextActionText.Value.Type",
+    "text": "ExtensionInput"
+  },
+  {
+    "action": 1,
+    "path": "$.WFTextActionText.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 2,
+    "path": "$.GroupingIdentifier",
+    "text": "39A4F3CE-5FD1-569C-BCF4-2DC38FB3D0B3"
+  },
+  {
+    "action": 3,
+    "path": "$.UUID",
+    "text": "FBC250D7-00E7-5453-AAC9-0FAD8BA3E920"
+  },
+  {
+    "action": 3,
+    "path": "$.WFAskActionDefaultAnswer.Value.Type",
+    "text": "Clipboard"
+  },
+  {
+    "action": 3,
+    "path": "$.WFAskActionDefaultAnswer.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 3,
+    "path": "$.WFAskActionPrompt",
+    "text": "請貼上影音連結"
+  },
+  {
+    "action": 4,
+    "path": "$.GroupingIdentifier",
+    "text": "39A4F3CE-5FD1-569C-BCF4-2DC38FB3D0B3"
+  },
+  {
+    "action": 4,
+    "path": "$.UUID",
+    "text": "19BF3C01-CE3A-5D78-9D96-EBCD11EB629E"
+  },
+  {
+    "action": 5,
+    "path": "$.UUID",
+    "text": "BABCAFE5-102D-5799-A3C1-67509AE82F7F"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "19BF3C01-CE3A-5D78-9D96-EBCD11EB629E"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 5,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 5,
+    "path": "$.WFMatchTextPattern",
+    "text": "https?://(?:[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?\\.)+[A-Za-z]{2,63}(?::[0-9]{1,5})?(?:[/?#][^\\s<>\"\\x00-\\x1f]*)?(?=$|\\s)"
+  },
+  {
+    "action": 6,
+    "path": "$.GroupingIdentifier",
+    "text": "40029127-5F3F-544A-A4E2-2941B7D68E78"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "BABCAFE5-102D-5799-A3C1-67509AE82F7F"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 6,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 7,
+    "path": "$.WFAlertActionMessage",
+    "text": "請提供以 http:// 或 https:// 開頭的有效影音連結。"
+  },
+  {
+    "action": 7,
+    "path": "$.WFAlertActionTitle",
+    "text": "無法繼續"
+  },
+  {
+    "action": 9,
+    "path": "$.GroupingIdentifier",
+    "text": "40029127-5F3F-544A-A4E2-2941B7D68E78"
+  },
+  {
+    "action": 10,
+    "path": "$.UUID",
+    "text": "5D445417-5F84-53EE-A4D3-F755D414BB25"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "BABCAFE5-102D-5799-A3C1-67509AE82F7F"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 10,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 10,
+    "path": "$.WFItemSpecifier",
+    "text": "First Item"
+  },
+  {
+    "action": 11,
+    "path": "$.UUID",
+    "text": "D8B5A3FA-2047-53D3-BBCF-D0DC5B292EA9"
+  },
+  {
+    "action": 12,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "D8B5A3FA-2047-53D3-BBCF-D0DC5B292EA9"
+  },
+  {
+    "action": 12,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 12,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 12,
+    "path": "$.WFVariableName",
+    "text": "label_now"
+  },
+  {
+    "action": 13,
+    "path": "$.UUID",
+    "text": "34F2EECB-4377-5478-9F14-D0801B82D562"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "34F2EECB-4377-5478-9F14-D0801B82D562"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 14,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 14,
+    "path": "$.WFVariableName",
+    "text": "m_album"
+  },
+  {
+    "action": 15,
+    "path": "$.UUID",
+    "text": "7E6F7CC1-9020-5ABD-834C-3C2113325233"
+  },
+  {
+    "action": 16,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "7E6F7CC1-9020-5ABD-834C-3C2113325233"
+  },
+  {
+    "action": 16,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 16,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 16,
+    "path": "$.WFVariableName",
+    "text": "m_file"
+  },
+  {
+    "action": 17,
+    "path": "$.UUID",
+    "text": "2473CE5B-66FD-5748-BB6D-FDCF2E8D4ECF"
+  },
+  {
+    "action": 18,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "2473CE5B-66FD-5748-BB6D-FDCF2E8D4ECF"
+  },
+  {
+    "action": 18,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 18,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 18,
+    "path": "$.WFVariableName",
+    "text": "menu_done"
+  },
+  {
+    "action": 19,
+    "path": "$.WFCommentActionText",
+    "text": "🎞️ 影音下載器 V1.0｜未簽署候選版本，待 iPhone 實機驗證。"
+  },
+  {
+    "action": 20,
+    "path": "$.CustomOutputName",
+    "text": "setting"
+  },
+  {
+    "action": 20,
+    "path": "$.UUID",
+    "text": "822A6463-EF31-4C28-B275-02045AF8CBB6"
+  },
+  {
+    "action": 20,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[0].WFKey.Value.string",
+    "text": "show_menu"
+  },
+  {
+    "action": 20,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[0].WFKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 20,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[0].WFValue.WFSerializationType",
+    "text": "WFNumberSubstitutableState"
+  },
+  {
+    "action": 20,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[1].WFKey.Value.string",
+    "text": "ask_format"
+  },
+  {
+    "action": 20,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[1].WFKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 20,
+    "path": "$.WFItems.Value.WFDictionaryFieldValueItems[1].WFValue.WFSerializationType",
+    "text": "WFNumberSubstitutableState"
+  },
+  {
+    "action": 20,
+    "path": "$.WFItems.WFSerializationType",
+    "text": "WFDictionaryFieldValue"
+  },
+  {
+    "action": 21,
+    "path": "$.WFCommentActionText",
+    "text": "使用說明：從分享選單傳入影音連結，或執行捷徑後貼上連結。格式與多選項目由下載服務提供。音訊儲存至檔案；影片可儲存至照片。第三方服務會收到影音網址與網路資訊。"
+  },
+  {
+    "action": 22,
+    "path": "$.UUID",
+    "text": "07FF0097-4D9D-46D8-8907-A03D7A18B828"
+  },
+  {
+    "action": 22,
+    "path": "$.WFBase64LineBreakMode",
+    "text": "None"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "5D445417-5F84-53EE-A4D3-F755D414BB25"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 22,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 23,
+    "path": "$.UUID",
+    "text": "301B1133-5079-496A-97F4-2F4153B5C859"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.OutputName",
+    "text": "Đã mã hóa Base64"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.OutputUUID",
+    "text": "07FF0097-4D9D-46D8-8907-A03D7A18B828"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{44, 1}.OutputName",
+    "text": "setting"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{44, 1}.OutputUUID",
+    "text": "822A6463-EF31-4C28-B275-02045AF8CBB6"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{44, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.Value.string",
+    "text": "data:text/html,<script>var b64=`￼`;var cfg=`￼`;function b64decodeUnicode(str){try{return decodeURIComponent(escape(atob(str)));}catch(e){try{return atob(str);}catch(e2){return \"\";}}}var t=b64decodeUnicode(b64);var c=JSON.parse(cfg);var m=t.match(/https?:\\/\\/[^\\s]+/);var lang=(navigator.language||navigator.userLanguage||\"\").split(\"-\")[0];var o={url_red:\"https://api.phimtat.vn/snapvideo/red64.php?url=\",url64:m?btoa(unescape(encodeURIComponent(m[0]))):\"\",lang:\"zh-TW\",ask_format:String(c.ask_format),show_menu:String(c.show_menu),skip_update:\"true\"};document.write(JSON.stringify(o));</script>"
+  },
+  {
+    "action": 23,
+    "path": "$.WFURLActionURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 24,
+    "path": "$.UUID",
+    "text": "98FB1476-69A7-4515-90C1-411A5FF4FE5B"
+  },
+  {
+    "action": 24,
+    "path": "$.WFEncodeMode",
+    "text": "Decode"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFRichTextContentItem"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "URL"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "301B1133-5079-496A-97F4-2F4153B5C859"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 24,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Văn bản URL đã giải mã"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "98FB1476-69A7-4515-90C1-411A5FF4FE5B"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 25,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 25,
+    "path": "$.WFVariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 26,
+    "path": "$.UUID",
+    "text": "ADEF168E-90F8-4C2F-99D0-BECD1120F0A2"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "ask_format"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{108, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "show_menu"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{120, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "skip_update"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{134, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "url64"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{140, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "lang"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{89, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.Value.string",
+    "text": "https://api.phimtat.vn/json/snapvideo.json?api-key=JILx9BLUzuCnwpXaSAygF9X10hIW3rNN&lang=￼&ver=8&ask_format=￼&show_menu=￼&skip_update=￼&b64=￼"
+  },
+  {
+    "action": 26,
+    "path": "$.WFURLActionURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 27,
+    "path": "$.UUID",
+    "text": "C9B68D00-E14C-432B-8DD5-386DD18DF6C8"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "URL"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "ADEF168E-90F8-4C2F-99D0-BECD1120F0A2"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 27,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 27,
+    "path": "$.WFVariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 28,
+    "path": "$.GroupingIdentifier",
+    "text": "B0CBAD10-C1CA-4732-A2EF-BAE85B4D879F"
+  },
+  {
+    "action": 28,
+    "path": "$.UUID",
+    "text": "CAE71DCD-DE56-4049-976E-9614022CA997"
+  },
+  {
+    "action": 29,
+    "path": "$.UUID",
+    "text": "EE7F3BBE-B3D8-479E-B3FB-CDF7ECD38E34"
+  },
+  {
+    "action": 29,
+    "path": "$.WFBase64LineBreakMode",
+    "text": "None"
+  },
+  {
+    "action": 29,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 29,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 29,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 29,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 29,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 30,
+    "path": "$.UUID",
+    "text": "2EACD400-1681-4B4B-A6E4-779833A5111F"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "url_red"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{0, 1}.VariableName",
+    "text": "main_json"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{1, 1}.OutputName",
+    "text": "Đã mã hóa Base64"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{1, 1}.OutputUUID",
+    "text": "EE7F3BBE-B3D8-479E-B3FB-CDF7ECD38E34"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{1, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.Value.string",
+    "text": "￼￼"
+  },
+  {
+    "action": 30,
+    "path": "$.WFURLActionURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 31,
+    "path": "$.CustomOutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 31,
+    "path": "$.UUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 31,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFKey.Value.string",
+    "text": "User-Agent"
+  },
+  {
+    "action": 31,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 31,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFValue.Value.string",
+    "text": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+  },
+  {
+    "action": 31,
+    "path": "$.WFHTTPHeaders.Value.WFDictionaryFieldValueItems[0].WFValue.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 31,
+    "path": "$.WFHTTPHeaders.WFSerializationType",
+    "text": "WFDictionaryFieldValue"
+  },
+  {
+    "action": 31,
+    "path": "$.WFURL.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "URL"
+  },
+  {
+    "action": 31,
+    "path": "$.WFURL.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "2EACD400-1681-4B4B-A6E4-779833A5111F"
+  },
+  {
+    "action": 31,
+    "path": "$.WFURL.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 31,
+    "path": "$.WFURL.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 31,
+    "path": "$.WFURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 32,
+    "path": "$.GroupingIdentifier",
+    "text": "21D691EE-7A21-4163-9D03-B07CDF53804C"
+  },
+  {
+    "action": 32,
+    "path": "$.WFConditionalActionString",
+    "text": "json"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFGenericFileContentItem"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].PropertyName",
+    "text": "File Extension"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].PropertyUserInfo",
+    "text": "WFFileExtensionProperty"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFPropertyVariableAggrandizement"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 32,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 33,
+    "path": "$.GroupingIdentifier",
+    "text": "E55A8D27-20E9-4373-839D-BCB42B23FE5C"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "reload"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 33,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 34,
+    "path": "$.WFAlertActionMessage",
+    "text": "已停止遠端重新執行，避免覆蓋繁體中文版。請稍後重新執行本捷徑。"
+  },
+  {
+    "action": 34,
+    "path": "$.WFAlertActionTitle",
+    "text": "服務要求重新載入"
+  },
+  {
+    "action": 36,
+    "path": "$.GroupingIdentifier",
+    "text": "E55A8D27-20E9-4373-839D-BCB42B23FE5C"
+  },
+  {
+    "action": 36,
+    "path": "$.UUID",
+    "text": "67C1334E-5438-4321-B084-1321DEFE0454"
+  },
+  {
+    "action": 37,
+    "path": "$.GroupingIdentifier",
+    "text": "21D691EE-7A21-4163-9D03-B07CDF53804C"
+  },
+  {
+    "action": 37,
+    "path": "$.UUID",
+    "text": "51828EDB-3DE1-4489-82DA-583606631DDD"
+  },
+  {
+    "action": 38,
+    "path": "$.GroupingIdentifier",
+    "text": "765E7431-8A43-43F4-AB19-D726E92B6487"
+  },
+  {
+    "action": 38,
+    "path": "$.UUID",
+    "text": "0611F04D-1BFD-4F41-8937-B5EF1775147E"
+  },
+  {
+    "action": 38,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 38,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 38,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 38,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 38,
+    "path": "$.WFNumberValue",
+    "text": "1"
+  },
+  {
+    "action": 39,
+    "path": "$.UUID",
+    "text": "9E4A8BFA-0E5A-5262-9CD1-1AE80E1481DA"
+  },
+  {
+    "action": 39,
+    "path": "$.WFBase64LineBreakMode",
+    "text": "None"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 39,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 40,
+    "path": "$.UUID",
+    "text": "F11D93E9-06CA-50E0-868A-92828F1FE4AC"
+  },
+  {
+    "action": 40,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.OutputUUID",
+    "text": "9E4A8BFA-0E5A-5262-9CD1-1AE80E1481DA"
+  },
+  {
+    "action": 40,
+    "path": "$.WFURLActionURL.Value.attachmentsByRange.{32, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 40,
+    "path": "$.WFURLActionURL.Value.string",
+    "text": "data:text/html,<script>var raw=\"￼\";// Pure display adapter. API request keys and media records remain unchanged.\nconst translations = {\n  '选择操作':'請選擇操作','输入视频链接':'貼上影音連結','使用指南':'使用說明',\n  '分享菜单中没有显示？':'分享選單未顯示？','下次隐藏此菜单':'下次不再顯示',\n  '输入视频链接。已复制的链接会自动粘贴。':'請貼上影音連結',\n  '关闭':'關閉','打开相册':'開啟照片','打开文件':'開啟檔案',\n  '下载完成':'儲存完成','选择格式':'請選擇影音格式','选择视频':'請選擇影音項目',\n  'Choose media:':'請選擇影音項目','Close':'關閉','JPG UPDATE GUIDE':'更新說明圖片'\n};\nfunction display(s) {\n  if (typeof s !== 'string') return s;\n  for (const [a,b] of Object.entries(translations).sort((a,b)=>b[0].length-a[0].length)) s=s.split(a).join(b);\n  return s;\n}\nfunction normalize(o) {\n  if (!o || typeof o !== 'object' || !Array.isArray(o.labels) || !o.medias || typeof o.medias !== 'object')\n    throw new Error('服務回應格式不符，請稍後再試。');\n  if (/updat.{0,30}shortcut/i.test(String(o.title||'')+' '+String(o.message||'')))\n    throw new Error('服務要求更新原版捷徑，已停止以保留繁體中文版。');\n  const r={...o, labels:[], medias:{...o.medias}};\n  o.labels.forEach((key,i)=>{\n    if(typeof key!=='string' || !Object.prototype.hasOwnProperty.call(o.medias,key)) throw new Error('找不到影音項目。');\n    const label=`${i+1}. ${display(key)}`;\n    r.labels.push(label); r.medias[label]=o.medias[key];\n  });\n  for(const k of ['menu_title','menu_done_title','open_album','open_file','close']) r[k]=display(o[k]);\n  r.menu_title=display(o.menu_title||'請選擇影音格式或項目');\n  // Reload is controlled by the server and can re-enter an update path.\n  delete r.reload;\n  return r;\n}\nif(typeof module!=='undefined') module.exports={normalize,display,translations};\n\ntry{document.write(JSON.stringify(normalize(JSON.parse(decodeURIComponent(escape(atob(raw)))))));}catch(e){document.write(JSON.stringify({error:String(e.message)}));}</script>"
+  },
+  {
+    "action": 40,
+    "path": "$.WFURLActionURL.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 41,
+    "path": "$.UUID",
+    "text": "B86A62AC-B973-5C51-BF5A-95DC1F241297"
+  },
+  {
+    "action": 41,
+    "path": "$.WFEncodeMode",
+    "text": "Decode"
+  },
+  {
+    "action": 41,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFRichTextContentItem"
+  },
+  {
+    "action": 41,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 41,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "F11D93E9-06CA-50E0-868A-92828F1FE4AC"
+  },
+  {
+    "action": 41,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 41,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 42,
+    "path": "$.GroupingIdentifier",
+    "text": "6EB79E79-0C3E-5941-931D-FC9EF92736A7"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "B86A62AC-B973-5C51-BF5A-95DC1F241297"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 42,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 43,
+    "path": "$.WFAlertActionMessage",
+    "text": "下載服務沒有回傳可用資料。"
+  },
+  {
+    "action": 43,
+    "path": "$.WFAlertActionTitle",
+    "text": "無法繼續"
+  },
+  {
+    "action": 45,
+    "path": "$.GroupingIdentifier",
+    "text": "6EB79E79-0C3E-5941-931D-FC9EF92736A7"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "B86A62AC-B973-5C51-BF5A-95DC1F241297"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 46,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 46,
+    "path": "$.WFVariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 47,
+    "path": "$.GroupingIdentifier",
+    "text": "EB50D65B-7899-57BA-B6FD-53BC3584AD7D"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "error"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 47,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionMessage.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionMessage.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionMessage.Value.Aggrandizements[1].DictionaryKey",
+    "text": "error"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionMessage.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionMessage.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionMessage.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionMessage.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 48,
+    "path": "$.WFAlertActionTitle",
+    "text": "下載服務無法繼續"
+  },
+  {
+    "action": 50,
+    "path": "$.GroupingIdentifier",
+    "text": "EB50D65B-7899-57BA-B6FD-53BC3584AD7D"
+  },
+  {
+    "action": 51,
+    "path": "$.GroupingIdentifier",
+    "text": "B856F486-D5C7-5430-8919-D7CDE50FC249"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "labels"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 51,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 52,
+    "path": "$.WFAlertActionMessage",
+    "text": "下載服務未提供可用的影音項目，可能不支援此連結或服務暫時異常。"
+  },
+  {
+    "action": 52,
+    "path": "$.WFAlertActionTitle",
+    "text": "無法繼續"
+  },
+  {
+    "action": 54,
+    "path": "$.GroupingIdentifier",
+    "text": "B856F486-D5C7-5430-8919-D7CDE50FC249"
+  },
+  {
+    "action": 55,
+    "path": "$.GroupingIdentifier",
+    "text": "26BB743A-600C-4AB9-8BA9-F6F85660F70F"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "skip_select"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 55,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "labels"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 56,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 56,
+    "path": "$.WFVariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 57,
+    "path": "$.GroupingIdentifier",
+    "text": "26BB743A-600C-4AB9-8BA9-F6F85660F70F"
+  },
+  {
+    "action": 58,
+    "path": "$.GroupingIdentifier",
+    "text": "6BA83D09-7181-434F-BF17-420338C7BDCF"
+  },
+  {
+    "action": 58,
+    "path": "$.UUID",
+    "text": "C8C7E842-EB60-4B0F-89D8-0311FECAC352"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "select_multiple"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 58,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 59,
+    "path": "$.UUID",
+    "text": "9E387D77-8749-4CB0-87EE-53DBBFBCE53F"
+  },
+  {
+    "action": 59,
+    "path": "$.WFChooseFromListActionPrompt",
+    "text": "請選擇影音格式或項目"
+  },
+  {
+    "action": 59,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 59,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 59,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "labels"
+  },
+  {
+    "action": 59,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 59,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 59,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 59,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 60,
+    "path": "$.GroupingIdentifier",
+    "text": "6BA83D09-7181-434F-BF17-420338C7BDCF"
+  },
+  {
+    "action": 61,
+    "path": "$.UUID",
+    "text": "ECAAF6C8-9124-4A27-B78E-01912352F0DE"
+  },
+  {
+    "action": 61,
+    "path": "$.WFChooseFromListActionPrompt",
+    "text": "請選擇影音格式或項目"
+  },
+  {
+    "action": 61,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 61,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 61,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "labels"
+  },
+  {
+    "action": 61,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 61,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 61,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 61,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 62,
+    "path": "$.GroupingIdentifier",
+    "text": "6BA83D09-7181-434F-BF17-420338C7BDCF"
+  },
+  {
+    "action": 62,
+    "path": "$.UUID",
+    "text": "38D6FC8C-A068-4899-893C-105BEAA1CE8E"
+  },
+  {
+    "action": 63,
+    "path": "$.GroupingIdentifier",
+    "text": "26BB743A-600C-4AB9-8BA9-F6F85660F70F"
+  },
+  {
+    "action": 63,
+    "path": "$.UUID",
+    "text": "1AF525B9-6B97-417F-9601-CE7159BD8694"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Nếu kết quả"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "1AF525B9-6B97-417F-9601-CE7159BD8694"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 64,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 64,
+    "path": "$.WFVariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 65,
+    "path": "$.GroupingIdentifier",
+    "text": "765E7431-8A43-43F4-AB19-D726E92B6487"
+  },
+  {
+    "action": 65,
+    "path": "$.UUID",
+    "text": "098DB5C7-BBB8-4D89-BE11-876FEE9D3E1F"
+  },
+  {
+    "action": 66,
+    "path": "$.CustomOutputName",
+    "text": "count_select"
+  },
+  {
+    "action": 66,
+    "path": "$.Input.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 66,
+    "path": "$.Input.Value.VariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 66,
+    "path": "$.Input.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 66,
+    "path": "$.UUID",
+    "text": "9AE7A576-2647-4262-89DA-D020175FBB39"
+  },
+  {
+    "action": 67,
+    "path": "$.GroupingIdentifier",
+    "text": "73EFB1EE-AC6D-41D7-800E-14495BCD5BB4"
+  },
+  {
+    "action": 67,
+    "path": "$.UUID",
+    "text": "2F8883DD-7421-40C7-9A2F-A9D9CC94F607"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 67,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 67,
+    "path": "$.WFNumberValue.Value.OutputName",
+    "text": "count_select"
+  },
+  {
+    "action": 67,
+    "path": "$.WFNumberValue.Value.OutputUUID",
+    "text": "9AE7A576-2647-4262-89DA-D020175FBB39"
+  },
+  {
+    "action": 67,
+    "path": "$.WFNumberValue.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 67,
+    "path": "$.WFNumberValue.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 68,
+    "path": "$.UUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "selected_item"
+  },
+  {
+    "action": 68,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 68,
+    "path": "$.WFItemIndex.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 68,
+    "path": "$.WFItemIndex.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 68,
+    "path": "$.WFItemIndex.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 68,
+    "path": "$.WFItemSpecifier",
+    "text": "Item At Index"
+  },
+  {
+    "action": 69,
+    "path": "$.CustomOutputName",
+    "text": "url_media"
+  },
+  {
+    "action": 69,
+    "path": "$.UUID",
+    "text": "790AF8CB-3ADA-4166-8259-635294BAB02C"
+  },
+  {
+    "action": 69,
+    "path": "$.WFDictionaryKey.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "Mục từ danh sách"
+  },
+  {
+    "action": 69,
+    "path": "$.WFDictionaryKey.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 69,
+    "path": "$.WFDictionaryKey.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 69,
+    "path": "$.WFDictionaryKey.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 69,
+    "path": "$.WFDictionaryKey.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 69,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 69,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 69,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "medias"
+  },
+  {
+    "action": 69,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 69,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 69,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 69,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "url"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "url_media"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "790AF8CB-3ADA-4166-8259-635294BAB02C"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 70,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 70,
+    "path": "$.WFVariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 71,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "790AF8CB-3ADA-4166-8259-635294BAB02C"
+  },
+  {
+    "action": 71,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 71,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 71,
+    "path": "$.WFVariableName",
+    "text": "label_now"
+  },
+  {
+    "action": 72,
+    "path": "$.GroupingIdentifier",
+    "text": "73EFB1EE-AC6D-41D7-800E-14495BCD5BB4"
+  },
+  {
+    "action": 72,
+    "path": "$.UUID",
+    "text": "F9F3B53F-E2AC-4DB8-A565-83E7AF033579"
+  },
+  {
+    "action": 73,
+    "path": "$.GroupingIdentifier",
+    "text": "972A43A4-7F81-4144-A648-B61E79E35833"
+  },
+  {
+    "action": 73,
+    "path": "$.UUID",
+    "text": "32DEEC40-1056-41D7-8CDD-A70246BE076B"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "skip_select"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 73,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 74,
+    "path": "$.GroupingIdentifier",
+    "text": "08D2F755-B17D-4798-BA8B-E5F9F3CF4674"
+  },
+  {
+    "action": 74,
+    "path": "$.WFConditionalActionString",
+    "text": "💬"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "Mục từ danh sách"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 74,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 75,
+    "path": "$.UUID",
+    "text": "7A0B6C09-6323-40BC-A08B-F4AF7B213CE7"
+  },
+  {
+    "action": 75,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ExtensionInput"
+  },
+  {
+    "action": 75,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.Type",
+    "text": "Clipboard"
+  },
+  {
+    "action": 75,
+    "path": "$.WFTextActionText.Value.string",
+    "text": "￼￼"
+  },
+  {
+    "action": 75,
+    "path": "$.WFTextActionText.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 76,
+    "path": "$.UUID",
+    "text": "E1429924-0A32-402E-A9BF-DB6F6704C3E5"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Văn bản"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "7A0B6C09-6323-40BC-A08B-F4AF7B213CE7"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 76,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 76,
+    "path": "$.WFWorkflow.workflowIdentifier",
+    "text": "9CF09A08-C69A-45E7-AE87-17C759D5EB29"
+  },
+  {
+    "action": 76,
+    "path": "$.WFWorkflow.workflowName",
+    "text": "🎞️ 影音下載器 V1.0"
+  },
+  {
+    "action": 76,
+    "path": "$.WFWorkflowName",
+    "text": "🎞️ 影音下載器 V1.0"
+  },
+  {
+    "action": 78,
+    "path": "$.GroupingIdentifier",
+    "text": "08D2F755-B17D-4798-BA8B-E5F9F3CF4674"
+  },
+  {
+    "action": 78,
+    "path": "$.UUID",
+    "text": "8C380547-A8AE-4D40-A9BF-ECC7F8B8B5C3"
+  },
+  {
+    "action": 79,
+    "path": "$.GroupingIdentifier",
+    "text": "972A43A4-7F81-4144-A648-B61E79E35833"
+  },
+  {
+    "action": 79,
+    "path": "$.UUID",
+    "text": "B43931C5-333F-449C-B301-B045D33A78BA"
+  },
+  {
+    "action": 80,
+    "path": "$.GroupingIdentifier",
+    "text": "7A1B3540-3EF7-4B0E-A2D9-77C29EAA2024"
+  },
+  {
+    "action": 80,
+    "path": "$.WFConditionalActionString",
+    "text": "💬"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "Mục từ danh sách"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "AEE8EEAB-C02C-41D8-A370-31EEC8A77C64"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 80,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 81,
+    "path": "$.UUID",
+    "text": "F6178423-8207-423B-96F7-584507B95308"
+  },
+  {
+    "action": 81,
+    "path": "$.WFAskActionDefaultAnswer.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "Clipboard"
+  },
+  {
+    "action": 81,
+    "path": "$.WFAskActionDefaultAnswer.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 81,
+    "path": "$.WFAskActionDefaultAnswer.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 81,
+    "path": "$.WFAskActionPrompt",
+    "text": "請貼上影音連結"
+  },
+  {
+    "action": 82,
+    "path": "$.UUID",
+    "text": "024886E2-FAAB-4E1B-B18D-AC058335974C"
+  },
+  {
+    "action": 82,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ExtensionInput"
+  },
+  {
+    "action": 82,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.OutputName",
+    "text": "Đầu vào đã cung cấp"
+  },
+  {
+    "action": 82,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.OutputUUID",
+    "text": "F6178423-8207-423B-96F7-584507B95308"
+  },
+  {
+    "action": 82,
+    "path": "$.WFTextActionText.Value.attachmentsByRange.{1, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 82,
+    "path": "$.WFTextActionText.Value.string",
+    "text": "￼￼"
+  },
+  {
+    "action": 82,
+    "path": "$.WFTextActionText.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 83,
+    "path": "$.UUID",
+    "text": "0FB9BE9C-0B6E-4392-8BB4-0B89FFB5D6AF"
+  },
+  {
+    "action": 83,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "Văn bản"
+  },
+  {
+    "action": 83,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "024886E2-FAAB-4E1B-B18D-AC058335974C"
+  },
+  {
+    "action": 83,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 83,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 83,
+    "path": "$.WFWorkflow.workflowIdentifier",
+    "text": "9CF09A08-C69A-45E7-AE87-17C759D5EB29"
+  },
+  {
+    "action": 83,
+    "path": "$.WFWorkflow.workflowName",
+    "text": "🎞️ 影音下載器 V1.0"
+  },
+  {
+    "action": 83,
+    "path": "$.WFWorkflowName",
+    "text": "🎞️ 影音下載器 V1.0"
+  },
+  {
+    "action": 85,
+    "path": "$.GroupingIdentifier",
+    "text": "7A1B3540-3EF7-4B0E-A2D9-77C29EAA2024"
+  },
+  {
+    "action": 85,
+    "path": "$.UUID",
+    "text": "1641FB3B-A442-405B-9299-77061BC207D1"
+  },
+  {
+    "action": 86,
+    "path": "$.GroupingIdentifier",
+    "text": "972A43A4-7F81-4144-A648-B61E79E35833"
+  },
+  {
+    "action": 86,
+    "path": "$.UUID",
+    "text": "A5613065-0168-47F8-98D7-46BC858A5061"
+  },
+  {
+    "action": 87,
+    "path": "$.GroupingIdentifier",
+    "text": "2CD03588-BF0B-488E-8242-35C8BE39366B"
+  },
+  {
+    "action": 87,
+    "path": "$.UUID",
+    "text": "3B86DC37-31DB-43DF-B417-673DA1A2FF64"
+  },
+  {
+    "action": 87,
+    "path": "$.WFConditionalActionString",
+    "text": "{{open-url}}"
+  },
+  {
+    "action": 87,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 87,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFStringContentItem"
+  },
+  {
+    "action": 87,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 87,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 87,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "url_fetch"
+  },
+  {
+    "action": 87,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 88,
+    "path": "$.UUID",
+    "text": "B0ACDC04-11D3-4D82-A369-E0CE1E4DC6D5"
+  },
+  {
+    "action": 88,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputName",
+    "text": "Nếu kết quả"
+  },
+  {
+    "action": 88,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.OutputUUID",
+    "text": "F9F3B53F-E2AC-4DB8-A565-83E7AF033579"
+  },
+  {
+    "action": 88,
+    "path": "$.WFInput.Value.attachmentsByRange.{0, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 88,
+    "path": "$.WFInput.Value.string",
+    "text": "￼"
+  },
+  {
+    "action": 88,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 88,
+    "path": "$.WFReplaceTextFind",
+    "text": "{{open-url}}"
+  },
+  {
+    "action": 89,
+    "path": "$.GroupingIdentifier",
+    "text": "B10A0979-41DC-4BDD-80ED-DD329F581346"
+  },
+  {
+    "action": 89,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 89,
+    "path": "$.WFInput.Variable.Value.OutputName",
+    "text": "Văn bản được cập nhật"
+  },
+  {
+    "action": 89,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "B0ACDC04-11D3-4D82-A369-E0CE1E4DC6D5"
+  },
+  {
+    "action": 89,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 89,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 90,
+    "path": "$.WFAlertActionMessage",
+    "text": "此版本已停止自動開啟遠端頁面及更新安裝。若下載失敗，請稍後再試。"
+  },
+  {
+    "action": 90,
+    "path": "$.WFAlertActionTitle",
+    "text": "服務要求開啟外部頁面"
+  },
+  {
+    "action": 91,
+    "path": "$.GroupingIdentifier",
+    "text": "B10A0979-41DC-4BDD-80ED-DD329F581346"
+  },
+  {
+    "action": 91,
+    "path": "$.UUID",
+    "text": "BE1E42B5-1A5F-42F8-AD0A-3F656C65B41B"
+  },
+  {
+    "action": 93,
+    "path": "$.GroupingIdentifier",
+    "text": "2CD03588-BF0B-488E-8242-35C8BE39366B"
+  },
+  {
+    "action": 93,
+    "path": "$.UUID",
+    "text": "7D18C594-3A34-408F-9E6E-74E1AC4C1DB1"
+  },
+  {
+    "action": 94,
+    "path": "$.GroupingIdentifier",
+    "text": "03901748-08BC-4A11-B022-1749204D3C47"
+  },
+  {
+    "action": 94,
+    "path": "$.UUID",
+    "text": "7F2B94DA-746B-4153-B024-F38D79529030"
+  },
+  {
+    "action": 94,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 94,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 94,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 94,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 94,
+    "path": "$.WFNumberValue",
+    "text": "1"
+  },
+  {
+    "action": 95,
+    "path": "$.UUID",
+    "text": "269E38DC-588C-4E22-8810-C0298C91D448"
+  },
+  {
+    "action": 95,
+    "path": "$.WFRandomNumberMaximum",
+    "text": "9999999"
+  },
+  {
+    "action": 95,
+    "path": "$.WFRandomNumberMinimum",
+    "text": "1"
+  },
+  {
+    "action": 96,
+    "path": "$.CustomOutputName",
+    "text": "media_loaded"
+  },
+  {
+    "action": 96,
+    "path": "$.UUID",
+    "text": "C548DE9A-A03A-4FAC-B1AD-E14D7D56C519"
+  },
+  {
+    "action": 96,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "fetch_result"
+  },
+  {
+    "action": 96,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "54000CC8-88FC-4C19-8E9C-9A81A954ACF1"
+  },
+  {
+    "action": 96,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 96,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "title"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{11, 1}.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{13, 1}.OutputName",
+    "text": "Số ngẫu nhiên"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{13, 1}.OutputUUID",
+    "text": "269E38DC-588C-4E22-8810-C0298C91D448"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{13, 1}.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[1].DictionaryKey",
+    "text": "ext"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.attachmentsByRange.{15, 1}.VariableName",
+    "text": "label_now"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.Value.string",
+    "text": "snapvideo--￼-￼.￼"
+  },
+  {
+    "action": 96,
+    "path": "$.WFName.WFSerializationType",
+    "text": "WFTextTokenString"
+  },
+  {
+    "action": 97,
+    "path": "$.GroupingIdentifier",
+    "text": "9F903A9F-5761-5A24-BECA-0B51F26736A4"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].DictionaryKey",
+    "text": "file"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Variable.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "label_now"
+  },
+  {
+    "action": 97,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 98,
+    "path": "$.WFTextActionText",
+    "text": "儲存至檔案"
+  },
+  {
+    "action": 99,
+    "path": "$.GroupingIdentifier",
+    "text": "9F903A9F-5761-5A24-BECA-0B51F26736A4"
+  },
+  {
+    "action": 100,
+    "path": "$.UUID",
+    "text": "65435D6B-A8FE-5B49-9F32-67363A4A0791"
+  },
+  {
+    "action": 100,
+    "path": "$.WFItems[0]",
+    "text": "儲存至照片"
+  },
+  {
+    "action": 100,
+    "path": "$.WFItems[1]",
+    "text": "儲存至檔案"
+  },
+  {
+    "action": 101,
+    "path": "$.UUID",
+    "text": "CFF11B54-7356-5F14-A6F4-5DABBCED9156"
+  },
+  {
+    "action": 101,
+    "path": "$.WFChooseFromListActionPrompt",
+    "text": "請選擇儲存位置"
+  },
+  {
+    "action": 101,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "65435D6B-A8FE-5B49-9F32-67363A4A0791"
+  },
+  {
+    "action": 101,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 101,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 102,
+    "path": "$.GroupingIdentifier",
+    "text": "9F903A9F-5761-5A24-BECA-0B51F26736A4"
+  },
+  {
+    "action": 102,
+    "path": "$.UUID",
+    "text": "5D51AE5F-863A-5C2B-9AD3-2FF352922B8C"
+  },
+  {
+    "action": 103,
+    "path": "$.GroupingIdentifier",
+    "text": "9AEF3951-9ABE-41D0-A318-2E6236ED9F61"
+  },
+  {
+    "action": 103,
+    "path": "$.WFConditionalActionString",
+    "text": "儲存至檔案"
+  },
+  {
+    "action": 103,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 103,
+    "path": "$.WFInput.Variable.Value.OutputUUID",
+    "text": "5D51AE5F-863A-5C2B-9AD3-2FF352922B8C"
+  },
+  {
+    "action": 103,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 103,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 104,
+    "path": "$.UUID",
+    "text": "A49F0BD8-E21A-4999-A8E5-19B275C8551C"
+  },
+  {
+    "action": 104,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "media_loaded"
+  },
+  {
+    "action": 104,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "C548DE9A-A03A-4FAC-B1AD-E14D7D56C519"
+  },
+  {
+    "action": 104,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 104,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 105,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 105,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 105,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "open_file"
+  },
+  {
+    "action": 105,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 105,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 105,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 105,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 105,
+    "path": "$.WFVariableName",
+    "text": "m_file"
+  },
+  {
+    "action": 106,
+    "path": "$.GroupingIdentifier",
+    "text": "9AEF3951-9ABE-41D0-A318-2E6236ED9F61"
+  },
+  {
+    "action": 107,
+    "path": "$.UUID",
+    "text": "A6F633B1-C67B-4F94-8A9E-855644EF49B6"
+  },
+  {
+    "action": 107,
+    "path": "$.WFInput.Value.OutputName",
+    "text": "media_loaded"
+  },
+  {
+    "action": 107,
+    "path": "$.WFInput.Value.OutputUUID",
+    "text": "C548DE9A-A03A-4FAC-B1AD-E14D7D56C519"
+  },
+  {
+    "action": 107,
+    "path": "$.WFInput.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 107,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 108,
+    "path": "$.WFInput.Value.Aggrandizements[0].CoercionItemClass",
+    "text": "WFDictionaryContentItem"
+  },
+  {
+    "action": 108,
+    "path": "$.WFInput.Value.Aggrandizements[0].Type",
+    "text": "WFCoercionVariableAggrandizement"
+  },
+  {
+    "action": 108,
+    "path": "$.WFInput.Value.Aggrandizements[1].DictionaryKey",
+    "text": "open_album"
+  },
+  {
+    "action": 108,
+    "path": "$.WFInput.Value.Aggrandizements[1].Type",
+    "text": "WFDictionaryValueVariableAggrandizement"
+  },
+  {
+    "action": 108,
+    "path": "$.WFInput.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 108,
+    "path": "$.WFInput.Value.VariableName",
+    "text": "api_result"
+  },
+  {
+    "action": 108,
+    "path": "$.WFInput.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 108,
+    "path": "$.WFVariableName",
+    "text": "m_album"
+  },
+  {
+    "action": 109,
+    "path": "$.GroupingIdentifier",
+    "text": "9AEF3951-9ABE-41D0-A318-2E6236ED9F61"
+  },
+  {
+    "action": 109,
+    "path": "$.UUID",
+    "text": "A819AEDD-1915-408B-BFAD-AC5AE5B97F06"
+  },
+  {
+    "action": 110,
+    "path": "$.GroupingIdentifier",
+    "text": "03901748-08BC-4A11-B022-1749204D3C47"
+  },
+  {
+    "action": 110,
+    "path": "$.UUID",
+    "text": "258BA40B-F254-46F0-AB29-62BD16FDC870"
+  },
+  {
+    "action": 111,
+    "path": "$.GroupingIdentifier",
+    "text": "7A9730EF-FF39-4A16-99E1-17EE192BC0AF"
+  },
+  {
+    "action": 111,
+    "path": "$.UUID",
+    "text": "FE56DA08-5A22-49B2-8968-C89C27552D46"
+  },
+  {
+    "action": 111,
+    "path": "$.WFInput.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 111,
+    "path": "$.WFInput.Variable.Value.Type",
+    "text": "Variable"
+  },
+  {
+    "action": 111,
+    "path": "$.WFInput.Variable.Value.VariableName",
+    "text": "Repeat Index"
+  },
+  {
+    "action": 111,
+    "path": "$.WFInput.Variable.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 111,
+    "path": "$.WFNumberValue.Value.OutputName",
+    "text": "count_select"
+  },
+  {
+    "action": 111,
+    "path": "$.WFNumberValue.Value.OutputUUID",
+    "text": "9AE7A576-2647-4262-89DA-D020175FBB39"
+  },
+  {
+    "action": 111,
+    "path": "$.WFNumberValue.Value.Type",
+    "text": "ActionOutput"
+  },
+  {
+    "action": 111,
+    "path": "$.WFNumberValue.WFSerializationType",
+    "text": "WFTextTokenAttachment"
+  },
+  {
+    "action": 112,
+    "path": "$.WFNotificationActionBody",
+    "text": "已完成所選影音的儲存。"
+  },
+  {
+    "action": 112,
+    "path": "$.WFNotificationActionTitle",
+    "text": "影音下載器"
+  },
+  {
+    "action": 114,
+    "path": "$.GroupingIdentifier",
+    "text": "7A9730EF-FF39-4A16-99E1-17EE192BC0AF"
+  },
+  {
+    "action": 114,
+    "path": "$.UUID",
+    "text": "ECB08F84-36A5-4F65-974D-D0FE43C81057"
+  },
+  {
+    "action": 115,
+    "path": "$.GroupingIdentifier",
+    "text": "B0CBAD10-C1CA-4732-A2EF-BAE85B4D879F"
+  },
+  {
+    "action": 115,
+    "path": "$.UUID",
+    "text": "3DBD884F-B423-4F13-965E-B9DC2419AE1A"
+  },
+  {
+    "action": 116,
+    "path": "$.WFAlertActionMessage",
+    "text": "已達處理次數上限。請減少所選項目後重試；已儲存的項目會保留。"
+  },
+  {
+    "action": 116,
+    "path": "$.WFAlertActionTitle",
+    "text": "未能完成下載"
+  }
+]

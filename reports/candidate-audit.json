@@ -1,0 +1,7 @@
+{
+  "actions": 117,
+  "missing_references": [],
+  "forward_references": [],
+  "control_or_token_errors": [],
+  "note": "UUID existence and lexical control checks only; branch dominance and iOS action schemas require device verification."
+}
